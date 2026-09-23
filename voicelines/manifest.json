@@ -1,0 +1,3657 @@
+[
+  {
+    "file": "001.mp3",
+    "text": "Jump off.",
+    "raw_text": "[ominous] Jump off."
+  },
+  {
+    "file": "002.mp3",
+    "text": "It is time.",
+    "raw_text": "[dramatic] It is time."
+  },
+  {
+    "file": "003.mp3",
+    "text": "Do it.",
+    "raw_text": "[commanding] Do it."
+  },
+  {
+    "file": "004.mp3",
+    "text": "Run.",
+    "raw_text": "[urgent] Run."
+  },
+  {
+    "file": "005.mp3",
+    "text": "You know what you must do.",
+    "raw_text": "[ominous] You know what you must do."
+  },
+  {
+    "file": "006.mp3",
+    "text": "The hour has come.",
+    "raw_text": "[grandiose] The hour has come."
+  },
+  {
+    "file": "007.mp3",
+    "text": "Accept your fate.",
+    "raw_text": "[ominous] Accept your fate."
+  },
+  {
+    "file": "008.mp3",
+    "text": "There is no turning back.",
+    "raw_text": "[dramatic] There is no turning back."
+  },
+  {
+    "file": "009.mp3",
+    "text": "Proceed.",
+    "raw_text": "[cold] Proceed."
+  },
+  {
+    "file": "010.mp3",
+    "text": "The prophecy demands it.",
+    "raw_text": "[mystical] The prophecy demands it."
+  },
+  {
+    "file": "011.mp3",
+    "text": "So it begins.",
+    "raw_text": "[dramatic whisper] So it begins."
+  },
+  {
+    "file": "012.mp3",
+    "text": "You have been chosen.",
+    "raw_text": "[mysterious] You have been chosen."
+  },
+  {
+    "file": "013.mp3",
+    "text": "This is your sign.",
+    "raw_text": "[mysterious] This is your sign."
+  },
+  {
+    "file": "014.mp3",
+    "text": "The answer is obvious.",
+    "raw_text": "[deadpan] The answer is obvious."
+  },
+  {
+    "file": "015.mp3",
+    "text": "Fate has spoken.",
+    "raw_text": "[grandiose] Fate has spoken."
+  },
+  {
+    "file": "016.mp3",
+    "text": "We have decided.",
+    "raw_text": "[ominous] We have decided."
+  },
+  {
+    "file": "017.mp3",
+    "text": "The council has spoken.",
+    "raw_text": "[authoritative] The council has spoken."
+  },
+  {
+    "file": "018.mp3",
+    "text": "The council is disappointed.",
+    "raw_text": "[disappointed] The council is disappointed."
+  },
+  {
+    "file": "019.mp3",
+    "text": "The council is watching.",
+    "raw_text": "[ominous whisper] The council is watching."
+  },
+  {
+    "file": "020.mp3",
+    "text": "The council knows.",
+    "raw_text": "[ominous] The council knows."
+  },
+  {
+    "file": "021.mp3",
+    "text": "The council has decided your fate... death by baguette.",
+    "raw_text": "[dramatic] The council has decided your fate... death by baguette."
+  },
+  {
+    "file": "022.mp3",
+    "text": "Your fate has been sealed... with expired glue.",
+    "raw_text": "[deadpan] Your fate has been sealed... with expired glue."
+  },
+  {
+    "file": "023.mp3",
+    "text": "You will perish... in an extremely inconvenient manner.",
+    "raw_text": "[ominous] You will perish... in an extremely inconvenient manner."
+  },
+  {
+    "file": "024.mp3",
+    "text": "The prophecy foretells... a minor inconvenience.",
+    "raw_text": "[mystical, deadpan] The prophecy foretells... a minor inconvenience."
+  },
+  {
+    "file": "025.mp3",
+    "text": "Your punishment is... three hours of elevator music.",
+    "raw_text": "[serious] Your punishment is... three hours of elevator music."
+  },
+  {
+    "file": "026.mp3",
+    "text": "You have been sentenced to the shadow realm. Probably.",
+    "raw_text": "[dramatic, uncertain] You have been sentenced to the shadow realm. Probably."
+  },
+  {
+    "file": "027.mp3",
+    "text": "Death approaches... wearing Crocs.",
+    "raw_text": "[ominous, confused] Death approaches... wearing Crocs."
+  },
+  {
+    "file": "028.mp3",
+    "text": "Your time has come... to buy more milk.",
+    "raw_text": "[dramatic, mundane] Your time has come... to buy more milk."
+  },
+  {
+    "file": "029.mp3",
+    "text": "You will be remembered... mostly by your browser history.",
+    "raw_text": "[solemn] You will be remembered... mostly by your browser history."
+  },
+  {
+    "file": "030.mp3",
+    "text": "The end is near... please remain seated.",
+    "raw_text": "[ominous, polite] The end is near... please remain seated."
+  },
+  {
+    "file": "031.mp3",
+    "text": "The council has reached a decision... they won't tell you.",
+    "raw_text": "[mysterious] The council has reached a decision... they won't tell you."
+  },
+  {
+    "file": "032.mp3",
+    "text": "Your fate is sealed... someone used too much tape.",
+    "raw_text": "[deadpan] Your fate is sealed... someone used too much tape."
+  },
+  {
+    "file": "033.mp3",
+    "text": "You have been judged... and found mildly annoying.",
+    "raw_text": "[judgmental] You have been judged... and found mildly annoying."
+  },
+  {
+    "file": "034.mp3",
+    "text": "Prepare yourself... for something.",
+    "raw_text": "[ominous, uncertain] Prepare yourself... for something."
+  },
+  {
+    "file": "035.mp3",
+    "text": "Your downfall approaches... at walking speed.",
+    "raw_text": "[dramatic, deadpan] Your downfall approaches... at walking speed."
+  },
+  {
+    "file": "036.mp3",
+    "text": "Consult the frog.",
+    "raw_text": "[mysterious] Consult the frog."
+  },
+  {
+    "file": "037.mp3",
+    "text": "Ask again after eating a banana.",
+    "raw_text": "[deadpan] Ask again after eating a banana."
+  },
+  {
+    "file": "038.mp3",
+    "text": "The toaster knows.",
+    "raw_text": "[ominous whisper] The toaster knows."
+  },
+  {
+    "file": "039.mp3",
+    "text": "Your answer is hiding under the couch.",
+    "raw_text": "[mysterious] Your answer is hiding under the couch."
+  },
+  {
+    "file": "040.mp3",
+    "text": "Throw a chair and see what happens.",
+    "raw_text": "[casual] Throw a chair and see what happens."
+  },
+  {
+    "file": "041.mp3",
+    "text": "Become the worm.",
+    "raw_text": "[mystical] Become the worm."
+  },
+  {
+    "file": "042.mp3",
+    "text": "Eat the receipt.",
+    "raw_text": "[commanding] Eat the receipt."
+  },
+  {
+    "file": "043.mp3",
+    "text": "Blame Greg.",
+    "raw_text": "[deadpan] Blame Greg."
+  },
+  {
+    "file": "044.mp3",
+    "text": "Do not trust the spoon.",
+    "raw_text": "[ominous whisper] Do not trust the spoon."
+  },
+  {
+    "file": "045.mp3",
+    "text": "The moon says no.",
+    "raw_text": "[mystical] The moon says no."
+  },
+  {
+    "file": "046.mp3",
+    "text": "The moon says yes, unfortunately.",
+    "raw_text": "[disappointed] The moon says yes, unfortunately."
+  },
+  {
+    "file": "047.mp3",
+    "text": "Have you tried screaming?",
+    "raw_text": "[curious] Have you tried screaming?"
+  },
+  {
+    "file": "048.mp3",
+    "text": "Roll a dice. Ignore the result.",
+    "raw_text": "[casual] Roll a dice. Ignore the result."
+  },
+  {
+    "file": "049.mp3",
+    "text": "Ask your left shoe.",
+    "raw_text": "[deadpan] Ask your left shoe."
+  },
+  {
+    "file": "050.mp3",
+    "text": "The pigeons have voted.",
+    "raw_text": "[authoritative] The pigeons have voted."
+  },
+  {
+    "file": "051.mp3",
+    "text": "The floor has decided.",
+    "raw_text": "[ominous] The floor has decided."
+  },
+  {
+    "file": "052.mp3",
+    "text": "Become ungovernable.",
+    "raw_text": "[triumphant] Become ungovernable."
+  },
+  {
+    "file": "053.mp3",
+    "text": "Acquire a bucket.",
+    "raw_text": "[serious] Acquire a bucket."
+  },
+  {
+    "file": "054.mp3",
+    "text": "Perhaps.",
+    "raw_text": "[mysterious whisper] Perhaps."
+  },
+  {
+    "file": "055.mp3",
+    "text": "Absolutely not, idiot.",
+    "raw_text": "[deadpan, annoyed] Absolutely not, idiot."
+  },
+  {
+    "file": "056.mp3",
+    "text": "Yes, but at what cost?",
+    "raw_text": "[dramatic] Yes, but at what cost?"
+  },
+  {
+    "file": "057.mp3",
+    "text": "No, but make it dramatic.",
+    "raw_text": "[sarcastic] No, but make it dramatic."
+  },
+  {
+    "file": "058.mp3",
+    "text": "Maybe. Consult the cheese.",
+    "raw_text": "[mystical, confused] Maybe. Consult the cheese."
+  },
+  {
+    "file": "059.mp3",
+    "text": "Ask again when the moon is less weird.",
+    "raw_text": "[tired] Ask again when the moon is less weird."
+  },
+  {
+    "file": "060.mp3",
+    "text": "The ancient texts warned us about this.",
+    "raw_text": "[ominous] The ancient texts warned us about this."
+  },
+  {
+    "file": "061.mp3",
+    "text": "Three signs have appeared. None were useful.",
+    "raw_text": "[mystical, disappointed] Three signs have appeared. None were useful."
+  },
+  {
+    "file": "062.mp3",
+    "text": "When the seventh bell rings, you shall know.",
+    "raw_text": "[grandiose] When the seventh bell rings, you shall know."
+  },
+  {
+    "file": "063.mp3",
+    "text": "The prophecy is unclear, but it sounds bad.",
+    "raw_text": "[concerned] The prophecy is unclear, but it sounds bad."
+  },
+  {
+    "file": "064.mp3",
+    "text": "The oracle has spoken. Unfortunately, it mumbled.",
+    "raw_text": "[mystical, annoyed] The oracle has spoken. Unfortunately, it mumbled."
+  },
+  {
+    "file": "065.mp3",
+    "text": "The ancient ones demand a sacrifice... of your free time.",
+    "raw_text": "[dramatic] The ancient ones demand a sacrifice... of your free time."
+  },
+  {
+    "file": "066.mp3",
+    "text": "Your destiny awaits you in aisle seven.",
+    "raw_text": "[grandiose, confused] Your destiny awaits you in aisle seven."
+  },
+  {
+    "file": "067.mp3",
+    "text": "The sacred scroll has been consulted.",
+    "raw_text": "[ceremonial] The sacred scroll has been consulted."
+  },
+  {
+    "file": "068.mp3",
+    "text": "The sacred scroll says lol.",
+    "raw_text": "[deadpan] The sacred scroll says lol."
+  },
+  {
+    "file": "069.mp3",
+    "text": "The universe has provided an answer.",
+    "raw_text": "[grandiose] The universe has provided an answer."
+  },
+  {
+    "file": "070.mp3",
+    "text": "The universe has requested that you stop.",
+    "raw_text": "[ominous, polite] The universe has requested that you stop."
+  },
+  {
+    "file": "071.mp3",
+    "text": "Fate has rolled the dice.",
+    "raw_text": "[dramatic] Fate has rolled the dice."
+  },
+  {
+    "file": "072.mp3",
+    "text": "Fate rolled a one. Good luck.",
+    "raw_text": "[deadpan] Fate rolled a one. Good luck."
+  },
+  {
+    "file": "073.mp3",
+    "text": "When the frog speaks, you will understand.",
+    "raw_text": "[mystical] When the frog speaks, you will understand."
+  },
+  {
+    "file": "074.mp3",
+    "text": "On the third Tuesday, it shall begin.",
+    "raw_text": "[grandiose] On the third Tuesday, it shall begin."
+  },
+  {
+    "file": "075.mp3",
+    "text": "The stars have aligned. Poorly.",
+    "raw_text": "[mystical] The stars have aligned. Poorly."
+  },
+  {
+    "file": "076.mp3",
+    "text": "The moon has rejected your request.",
+    "raw_text": "[mystical] The moon has rejected your request."
+  },
+  {
+    "file": "077.mp3",
+    "text": "The prophecy has been misinterpreted.",
+    "raw_text": "[confused] The prophecy has been misinterpreted."
+  },
+  {
+    "file": "078.mp3",
+    "text": "The prophecy was written in crayon.",
+    "raw_text": "[deadpan] The prophecy was written in crayon."
+  },
+  {
+    "file": "079.mp3",
+    "text": "The ancient text simply says nah.",
+    "raw_text": "[deadpan] The ancient text simply says nah."
+  },
+  {
+    "file": "080.mp3",
+    "text": "Your destiny has been misplaced.",
+    "raw_text": "[mysterious] Your destiny has been misplaced."
+  },
+  {
+    "file": "081.mp3",
+    "text": "The universe forgot to specify.",
+    "raw_text": "[confused] The universe forgot to specify."
+  },
+  {
+    "file": "082.mp3",
+    "text": "The signs were clear. You ignored them.",
+    "raw_text": "[ominous] The signs were clear. You ignored them."
+  },
+  {
+    "file": "083.mp3",
+    "text": "The omens are concerningly specific.",
+    "raw_text": "[concerned] The omens are concerningly specific."
+  },
+  {
+    "file": "084.mp3",
+    "text": "The sacred number is fourteen.",
+    "raw_text": "[ceremonial] The sacred number is fourteen."
+  },
+  {
+    "file": "085.mp3",
+    "text": "The seventh door contains nothing useful.",
+    "raw_text": "[mysterious] The seventh door contains nothing useful."
+  },
+  {
+    "file": "086.mp3",
+    "text": "When the bells ring, hide the mayonnaise.",
+    "raw_text": "[ominous] When the bells ring, hide the mayonnaise."
+  },
+  {
+    "file": "087.mp3",
+    "text": "The chosen one has been delayed.",
+    "raw_text": "[dramatic] The chosen one has been delayed."
+  },
+  {
+    "file": "088.mp3",
+    "text": "You are not the chosen one.",
+    "raw_text": "[deadpan] You are not the chosen one."
+  },
+  {
+    "file": "089.mp3",
+    "text": "The chosen one quit.",
+    "raw_text": "[disappointed] The chosen one quit."
+  },
+  {
+    "file": "090.mp3",
+    "text": "The oracle needs a minute.",
+    "raw_text": "[tired] The oracle needs a minute."
+  },
+  {
+    "file": "091.mp3",
+    "text": "The oracle has requested a second opinion.",
+    "raw_text": "[mysterious] The oracle has requested a second opinion."
+  },
+  {
+    "file": "092.mp3",
+    "text": "The prophecy has been postponed.",
+    "raw_text": "[dramatic] The prophecy has been postponed."
+  },
+  {
+    "file": "093.mp3",
+    "text": "Destiny is experiencing technical difficulties.",
+    "raw_text": "[robotic] Destiny is experiencing technical difficulties."
+  },
+  {
+    "file": "094.mp3",
+    "text": "Fate is currently unavailable.",
+    "raw_text": "[robotic] Fate is currently unavailable."
+  },
+  {
+    "file": "095.mp3",
+    "text": "Your appointment with destiny has been cancelled.",
+    "raw_text": "[formal] Your appointment with destiny has been cancelled."
+  },
+  {
+    "file": "096.mp3",
+    "text": "That will be all.",
+    "raw_text": "[authoritative] That will be all."
+  },
+  {
+    "file": "097.mp3",
+    "text": "Decision made. Moving on.",
+    "raw_text": "[cold] Decision made. Moving on."
+  },
+  {
+    "file": "098.mp3",
+    "text": "We will not be discussing this.",
+    "raw_text": "[firm] We will not be discussing this."
+  },
+  {
+    "file": "099.mp3",
+    "text": "Your request has been denied by the universe.",
+    "raw_text": "[bureaucratic] Your request has been denied by the universe."
+  },
+  {
+    "file": "100.mp3",
+    "text": "Application rejected.",
+    "raw_text": "[robotic] Application rejected."
+  },
+  {
+    "file": "101.mp3",
+    "text": "Request received. Regret pending.",
+    "raw_text": "[formal] Request received. Regret pending."
+  },
+  {
+    "file": "102.mp3",
+    "text": "Your case has been escalated.",
+    "raw_text": "[bureaucratic] Your case has been escalated."
+  },
+  {
+    "file": "103.mp3",
+    "text": "Please circle back.",
+    "raw_text": "[deadpan] Please circle back."
+  },
+  {
+    "file": "104.mp3",
+    "text": "Please stop circling.",
+    "raw_text": "[confused] Please stop circling."
+  },
+  {
+    "file": "105.mp3",
+    "text": "Synergy achieved.",
+    "raw_text": "[corporate] Synergy achieved."
+  },
+  {
+    "file": "106.mp3",
+    "text": "Synergy lost.",
+    "raw_text": "[disappointed] Synergy lost."
+  },
+  {
+    "file": "107.mp3",
+    "text": "Productivity is currently unavailable.",
+    "raw_text": "[robotic] Productivity is currently unavailable."
+  },
+  {
+    "file": "108.mp3",
+    "text": "Your performance review is tomorrow.",
+    "raw_text": "[dramatic] Your performance review is tomorrow."
+  },
+  {
+    "file": "109.mp3",
+    "text": "Your performance review is now.",
+    "raw_text": "[serious] Your performance review is now."
+  },
+  {
+    "file": "110.mp3",
+    "text": "You have been promoted to customer.",
+    "raw_text": "[corporate] You have been promoted to customer."
+  },
+  {
+    "file": "111.mp3",
+    "text": "You have been promoted to problem.",
+    "raw_text": "[deadpan] You have been promoted to problem."
+  },
+  {
+    "file": "112.mp3",
+    "text": "The printer has won.",
+    "raw_text": "[frustrated] The printer has won."
+  },
+  {
+    "file": "113.mp3",
+    "text": "The printer always wins.",
+    "raw_text": "[ominous] The printer always wins."
+  },
+  {
+    "file": "114.mp3",
+    "text": "Please submit form 37-B.",
+    "raw_text": "[bureaucratic] Please submit form 37-B."
+  },
+  {
+    "file": "115.mp3",
+    "text": "Form 37-B has been discontinued.",
+    "raw_text": "[confused] Form 37-B has been discontinued."
+  },
+  {
+    "file": "116.mp3",
+    "text": "Your expense report has been eaten.",
+    "raw_text": "[deadpan] Your expense report has been eaten."
+  },
+  {
+    "file": "117.mp3",
+    "text": "The spreadsheet is angry.",
+    "raw_text": "[corporate] The spreadsheet is angry."
+  },
+  {
+    "file": "118.mp3",
+    "text": "The spreadsheet knows what you did.",
+    "raw_text": "[ominous] The spreadsheet knows what you did."
+  },
+  {
+    "file": "119.mp3",
+    "text": "We are excited to announce absolutely nothing.",
+    "raw_text": "[cheerful] We are excited to announce absolutely nothing."
+  },
+  {
+    "file": "120.mp3",
+    "text": "Thank you for your patience. We have none.",
+    "raw_text": "[polite] Thank you for your patience. We have none."
+  },
+  {
+    "file": "121.mp3",
+    "text": "Nope.",
+    "raw_text": "[deadpan] Nope."
+  },
+  {
+    "file": "122.mp3",
+    "text": "Yep.",
+    "raw_text": "[cheerful] Yep."
+  },
+  {
+    "file": "123.mp3",
+    "text": "Maybe.",
+    "raw_text": "[uncertain] Maybe."
+  },
+  {
+    "file": "124.mp3",
+    "text": "Probably.",
+    "raw_text": "[confident] Probably."
+  },
+  {
+    "file": "125.mp3",
+    "text": "Absolutely.",
+    "raw_text": "[confident] Absolutely."
+  },
+  {
+    "file": "126.mp3",
+    "text": "Obviously.",
+    "raw_text": "[deadpan] Obviously."
+  },
+  {
+    "file": "127.mp3",
+    "text": "Regrettably.",
+    "raw_text": "[disappointed] Regrettably."
+  },
+  {
+    "file": "128.mp3",
+    "text": "Incredible.",
+    "raw_text": "[impressed] Incredible."
+  },
+  {
+    "file": "129.mp3",
+    "text": "Disturbing.",
+    "raw_text": "[concerned] Disturbing."
+  },
+  {
+    "file": "130.mp3",
+    "text": "Interesting.",
+    "raw_text": "[curious] Interesting."
+  },
+  {
+    "file": "131.mp3",
+    "text": "Concerning.",
+    "raw_text": "[concerned] Concerning."
+  },
+  {
+    "file": "132.mp3",
+    "text": "Fascinating.",
+    "raw_text": "[fascinated] Fascinating."
+  },
+  {
+    "file": "133.mp3",
+    "text": "Unfortunate.",
+    "raw_text": "[sad] Unfortunate."
+  },
+  {
+    "file": "134.mp3",
+    "text": "Pathetic.",
+    "raw_text": "[judgmental] Pathetic."
+  },
+  {
+    "file": "135.mp3",
+    "text": "Remarkable.",
+    "raw_text": "[impressed] Remarkable."
+  },
+  {
+    "file": "136.mp3",
+    "text": "Suspicious.",
+    "raw_text": "[suspicious] Suspicious."
+  },
+  {
+    "file": "137.mp3",
+    "text": "Proceed.",
+    "raw_text": "[commanding] Proceed."
+  },
+  {
+    "file": "138.mp3",
+    "text": "Retreat.",
+    "raw_text": "[urgent] Retreat."
+  },
+  {
+    "file": "139.mp3",
+    "text": "Hide.",
+    "raw_text": "[whisper] Hide."
+  },
+  {
+    "file": "140.mp3",
+    "text": "Wait.",
+    "raw_text": "[confused] Wait."
+  },
+  {
+    "file": "141.mp3",
+    "text": "Again.",
+    "raw_text": "[annoyed] Again."
+  },
+  {
+    "file": "142.mp3",
+    "text": "Faster.",
+    "raw_text": "[urgent] Faster."
+  },
+  {
+    "file": "143.mp3",
+    "text": "Why?",
+    "raw_text": "[confused] Why?"
+  },
+  {
+    "file": "144.mp3",
+    "text": "Why not?",
+    "raw_text": "[cheerful] Why not?"
+  },
+  {
+    "file": "145.mp3",
+    "text": "Oh no.",
+    "raw_text": "[worried] Oh no."
+  },
+  {
+    "file": "146.mp3",
+    "text": "Uh oh.",
+    "raw_text": "[worried] Uh oh."
+  },
+  {
+    "file": "147.mp3",
+    "text": "Hm.",
+    "raw_text": "[thoughtful] Hm."
+  },
+  {
+    "file": "148.mp3",
+    "text": "Interesting choice.",
+    "raw_text": "[judgmental] Interesting choice."
+  },
+  {
+    "file": "149.mp3",
+    "text": "Bold move.",
+    "raw_text": "[impressed] Bold move."
+  },
+  {
+    "file": "150.mp3",
+    "text": "Bad idea.",
+    "raw_text": "[concerned] Bad idea."
+  },
+  {
+    "file": "151.mp3",
+    "text": "Great idea.",
+    "raw_text": "[cheerful] Great idea."
+  },
+  {
+    "file": "152.mp3",
+    "text": "Terrible idea.",
+    "raw_text": "[disappointed] Terrible idea."
+  },
+  {
+    "file": "153.mp3",
+    "text": "We shall see.",
+    "raw_text": "[mysterious] We shall see."
+  },
+  {
+    "file": "154.mp3",
+    "text": "Noted.",
+    "raw_text": "[deadpan] Noted."
+  },
+  {
+    "file": "155.mp3",
+    "text": "Fascinating. Anyway.",
+    "raw_text": "[fascinated] Fascinating. Anyway."
+  },
+  {
+    "file": "156.mp3",
+    "text": "That changes nothing.",
+    "raw_text": "[dramatic] That changes nothing."
+  },
+  {
+    "file": "157.mp3",
+    "text": "ERROR: Destiny not found.",
+    "raw_text": "[robotic] ERROR: Destiny not found."
+  },
+  {
+    "file": "158.mp3",
+    "text": "Destiny calculation complete. Yikes.",
+    "raw_text": "[robotic] Destiny calculation complete. Yikes."
+  },
+  {
+    "file": "159.mp3",
+    "text": "Loading your fate...",
+    "raw_text": "[robotic] Loading your fate..."
+  },
+  {
+    "file": "160.mp3",
+    "text": "Fate loaded successfully.",
+    "raw_text": "[robotic] Fate loaded successfully."
+  },
+  {
+    "file": "161.mp3",
+    "text": "Warning: fate unstable.",
+    "raw_text": "[robotic] Warning: fate unstable."
+  },
+  {
+    "file": "162.mp3",
+    "text": "Error 404: Good Decision Not Found.",
+    "raw_text": "[robotic] Error 404: Good Decision Not Found."
+  },
+  {
+    "file": "163.mp3",
+    "text": "Recalculating destiny...",
+    "raw_text": "[robotic] Recalculating destiny..."
+  },
+  {
+    "file": "164.mp3",
+    "text": "Installing consequences...",
+    "raw_text": "[robotic] Installing consequences..."
+  },
+  {
+    "file": "165.mp3",
+    "text": "Consequences installed successfully.",
+    "raw_text": "[robotic] Consequences installed successfully."
+  },
+  {
+    "file": "166.mp3",
+    "text": "New objective unlocked: Survive.",
+    "raw_text": "[robotic] New objective unlocked: Survive."
+  },
+  {
+    "file": "167.mp3",
+    "text": "Achievement unlocked: Bad Decision.",
+    "raw_text": "[robotic] Achievement unlocked: Bad Decision."
+  },
+  {
+    "file": "168.mp3",
+    "text": "Secret ending discovered.",
+    "raw_text": "[robotic] Secret ending discovered."
+  },
+  {
+    "file": "169.mp3",
+    "text": "You have triggered the wrong ending.",
+    "raw_text": "[robotic] You have triggered the wrong ending."
+  },
+  {
+    "file": "170.mp3",
+    "text": "Reality has been updated.",
+    "raw_text": "[robotic] Reality has been updated."
+  },
+  {
+    "file": "171.mp3",
+    "text": "Reality requires a restart.",
+    "raw_text": "[robotic] Reality requires a restart."
+  },
+  {
+    "file": "172.mp3",
+    "text": "Please wait while reality reloads.",
+    "raw_text": "[robotic] Please wait while reality reloads."
+  },
+  {
+    "file": "173.mp3",
+    "text": "Synchronizing with the universe...",
+    "raw_text": "[robotic] Synchronizing with the universe..."
+  },
+  {
+    "file": "174.mp3",
+    "text": "Universe synchronization failed.",
+    "raw_text": "[robotic] Universe synchronization failed."
+  },
+  {
+    "file": "175.mp3",
+    "text": "Please contact your local wizard.",
+    "raw_text": "[robotic] Please contact your local wizard."
+  },
+  {
+    "file": "176.mp3",
+    "text": "Your subscription to destiny has expired.",
+    "raw_text": "[robotic] Your subscription to destiny has expired."
+  },
+  {
+    "file": "177.mp3",
+    "text": "The machine has spoken. The machine regrets it.",
+    "raw_text": "[robotic] The machine has spoken. The machine regrets it."
+  },
+  {
+    "file": "178.mp3",
+    "text": "The prophecy has been patched in the latest update.",
+    "raw_text": "[robotic, deadpan] The prophecy has been patched in the latest update."
+  },
+  {
+    "file": "179.mp3",
+    "text": "Your answer is behind you. Don't look.",
+    "raw_text": "[whispered, ominous] Your answer is behind you. Don't look."
+  },
+  {
+    "file": "180.mp3",
+    "text": "Your fate: incredibly embarrassing.",
+    "raw_text": "[solemn] Your fate: incredibly embarrassing."
+  },
+  {
+    "file": "181.mp3",
+    "text": "Congratulations. You have unlocked: consequences.",
+    "raw_text": "[cheerful, ominous] Congratulations. You have unlocked: consequences."
+  },
+  {
+    "file": "182.mp3",
+    "text": "The council has decided your fate... mild public embarrassment.",
+    "raw_text": "[ceremonial] The council has decided your fate... mild public embarrassment."
+  },
+  {
+    "file": "183.mp3",
+    "text": "The council has decided your fate... one thousand years of buffering.",
+    "raw_text": "[dramatic] The council has decided your fate... one thousand years of buffering."
+  },
+  {
+    "file": "184.mp3",
+    "text": "The council has decided your fate... death by administrative paperwork.",
+    "raw_text": "[solemn, bureaucratic] The council has decided your fate... death by administrative paperwork."
+  },
+  {
+    "file": "185.mp3",
+    "text": "The council has decided your fate... being mildly inconvenienced forever.",
+    "raw_text": "[ominous, deadpan] The council has decided your fate... being mildly inconvenienced forever."
+  },
+  {
+    "file": "186.mp3",
+    "text": "The council has decided your fate... fighting a goose at dawn.",
+    "raw_text": "[epic, absurd] The council has decided your fate... fighting a goose at dawn."
+  },
+  {
+    "file": "187.mp3",
+    "text": "The council has decided your fate... eating an entire lemon.",
+    "raw_text": "[serious] The council has decided your fate... eating an entire lemon."
+  },
+  {
+    "file": "188.mp3",
+    "text": "The council has decided your fate... 400 years in the microwave.",
+    "raw_text": "[grandiose, absurd] The council has decided your fate... 400 years in the microwave."
+  },
+  {
+    "file": "189.mp3",
+    "text": "The council has decided your fate... you must explain NFTs to a horse.",
+    "raw_text": "[solemn, absurd] The council has decided your fate... you must explain NFTs to a horse."
+  },
+  {
+    "file": "190.mp3",
+    "text": "I have considered your question.",
+    "raw_text": "[mysterious] I have considered your question."
+  },
+  {
+    "file": "191.mp3",
+    "text": "I have considered it again.",
+    "raw_text": "[mysterious] I have considered it again."
+  },
+  {
+    "file": "192.mp3",
+    "text": "I have consulted the database.",
+    "raw_text": "[robotic] I have consulted the database."
+  },
+  {
+    "file": "193.mp3",
+    "text": "The database has asked me to stop.",
+    "raw_text": "[confused] The database has asked me to stop."
+  },
+  {
+    "file": "194.mp3",
+    "text": "I checked.",
+    "raw_text": "[deadpan] I checked."
+  },
+  {
+    "file": "195.mp3",
+    "text": "I checked twice.",
+    "raw_text": "[deadpan] I checked twice."
+  },
+  {
+    "file": "196.mp3",
+    "text": "I should not have checked.",
+    "raw_text": "[worried] I should not have checked."
+  },
+  {
+    "file": "197.mp3",
+    "text": "There is something in the results.",
+    "raw_text": "[concerned] There is something in the results."
+  },
+  {
+    "file": "198.mp3",
+    "text": "Ignore the results.",
+    "raw_text": "[urgent whisper] Ignore the results."
+  },
+  {
+    "file": "199.mp3",
+    "text": "The results are looking back.",
+    "raw_text": "[ominous whisper] The results are looking back."
+  },
+  {
+    "file": "200.mp3",
+    "text": "This answer was not supposed to exist.",
+    "raw_text": "[concerned] This answer was not supposed to exist."
+  },
+  {
+    "file": "201.mp3",
+    "text": "I wasn't programmed for this.",
+    "raw_text": "[confused] I wasn't programmed for this."
+  },
+  {
+    "file": "202.mp3",
+    "text": "That wasn't one of the options.",
+    "raw_text": "[surprised] That wasn't one of the options."
+  },
+  {
+    "file": "203.mp3",
+    "text": "You weren't supposed to ask that.",
+    "raw_text": "[ominous] You weren't supposed to ask that."
+  },
+  {
+    "file": "204.mp3",
+    "text": "Interesting. You broke it.",
+    "raw_text": "[amused] Interesting. You broke it."
+  },
+  {
+    "file": "205.mp3",
+    "text": "Please don't press that.",
+    "raw_text": "[worried whisper] Please don't press that."
+  },
+  {
+    "file": "206.mp3",
+    "text": "Why did you press that?",
+    "raw_text": "[panicked] Why did you press that?"
+  },
+  {
+    "file": "207.mp3",
+    "text": "Oh.",
+    "raw_text": "[surprised] Oh."
+  },
+  {
+    "file": "208.mp3",
+    "text": "Oh no.",
+    "raw_text": "[worried] Oh no."
+  },
+  {
+    "file": "209.mp3",
+    "text": "We may have a problem.",
+    "raw_text": "[concerned] We may have a problem."
+  },
+  {
+    "file": "210.mp3",
+    "text": "Actually, never mind.",
+    "raw_text": "[casual] Actually, never mind."
+  },
+  {
+    "file": "211.mp3",
+    "text": "No, wait.",
+    "raw_text": "[panicked] No, wait."
+  },
+  {
+    "file": "212.mp3",
+    "text": "That's worse.",
+    "raw_text": "[worried] That's worse."
+  },
+  {
+    "file": "213.mp3",
+    "text": "That's much worse.",
+    "raw_text": "[very concerned] That's much worse."
+  },
+  {
+    "file": "214.mp3",
+    "text": "We should probably leave.",
+    "raw_text": "[urgent whisper] We should probably leave."
+  },
+  {
+    "file": "215.mp3",
+    "text": "Bing bong. The verdict is: absolutely not.",
+    "raw_text": "[authoritative, deadpan] Bing bong. The verdict is: absolutely not."
+  },
+  {
+    "file": "216.mp3",
+    "text": "The council has decided. You are now a chair.",
+    "raw_text": "[ceremonial, absurd] The council has decided. You are now a chair."
+  },
+  {
+    "file": "217.mp3",
+    "text": "Jump off. Not literally. Probably.",
+    "raw_text": "[ominous, uncertain] Jump off. Not literally. Probably."
+  },
+  {
+    "file": "218.mp3",
+    "text": "It is time... to reconsider.",
+    "raw_text": "[dramatic] It is time... to reconsider."
+  },
+  {
+    "file": "219.mp3",
+    "text": "Death by suspiciously large hamster.",
+    "raw_text": "[ominous, confused] Death by suspiciously large hamster."
+  },
+  {
+    "file": "220.mp3",
+    "text": "You have 7 seconds. For what? Find out.",
+    "raw_text": "[urgent, mysterious] You have 7 seconds. For what? Find out."
+  },
+  {
+    "file": "221.mp3",
+    "text": "Your fate: incredibly embarrassing.",
+    "raw_text": "[solemn] Your fate: incredibly embarrassing."
+  },
+  {
+    "file": "222.mp3",
+    "text": "Ask again. I wasn't listening.",
+    "raw_text": "[mysterious] Ask again. I wasn't listening."
+  },
+  {
+    "file": "223.mp3",
+    "text": "Signs point to what the hell.",
+    "raw_text": "[confused] Signs point to what the hell."
+  },
+  {
+    "file": "224.mp3",
+    "text": "Outlook: deeply concerning.",
+    "raw_text": "[deadpan] Outlook: deeply concerning."
+  },
+  {
+    "file": "225.mp3",
+    "text": "My sources say bro, no.",
+    "raw_text": "[casual] My sources say bro, no."
+  },
+  {
+    "file": "226.mp3",
+    "text": "The answer is hiding from me.",
+    "raw_text": "[confused] The answer is hiding from me."
+  },
+  {
+    "file": "227.mp3",
+    "text": "I flipped a coin. It landed vertically.",
+    "raw_text": "[surprised] I flipped a coin. It landed vertically."
+  },
+  {
+    "file": "228.mp3",
+    "text": "I asked the universe. It blocked me.",
+    "raw_text": "[deadpan] I asked the universe. It blocked me."
+  },
+  {
+    "file": "229.mp3",
+    "text": "I asked again. The universe left me on read.",
+    "raw_text": "[deadpan] I asked again. The universe left me on read."
+  },
+  {
+    "file": "230.mp3",
+    "text": "The vibes are legally questionable.",
+    "raw_text": "[concerned] The vibes are legally questionable."
+  },
+  {
+    "file": "231.mp3",
+    "text": "The vibes have escaped.",
+    "raw_text": "[confused] The vibes have escaped."
+  },
+  {
+    "file": "232.mp3",
+    "text": "The vibes are not good.",
+    "raw_text": "[concerned] The vibes are not good."
+  },
+  {
+    "file": "233.mp3",
+    "text": "The vibes are weirdly good.",
+    "raw_text": "[cheerful] The vibes are weirdly good."
+  },
+  {
+    "file": "234.mp3",
+    "text": "This feels illegal.",
+    "raw_text": "[suspicious] This feels illegal."
+  },
+  {
+    "file": "235.mp3",
+    "text": "This feels important.",
+    "raw_text": "[mysterious] This feels important."
+  },
+  {
+    "file": "236.mp3",
+    "text": "This feels like a trap.",
+    "raw_text": "[ominous] This feels like a trap."
+  },
+  {
+    "file": "237.mp3",
+    "text": "This is definitely a trap.",
+    "raw_text": "[certain] This is definitely a trap."
+  },
+  {
+    "file": "238.mp3",
+    "text": "I have no idea. Good luck.",
+    "raw_text": "[deadpan] I have no idea. Good luck."
+  },
+  {
+    "file": "239.mp3",
+    "text": "I could tell you, but I think that's funnier.",
+    "raw_text": "[amused] I could tell you, but I think that's funnier."
+  },
+  {
+    "file": "240.mp3",
+    "text": "The answer would upset you.",
+    "raw_text": "[ominous] The answer would upset you."
+  },
+  {
+    "file": "241.mp3",
+    "text": "You already know the answer.",
+    "raw_text": "[mysterious] You already know the answer."
+  },
+  {
+    "file": "242.mp3",
+    "text": "You don't want to know the answer.",
+    "raw_text": "[ominous whisper] You don't want to know the answer."
+  },
+  {
+    "file": "243.mp3",
+    "text": "The answer has been deleted.",
+    "raw_text": "[deadpan] The answer has been deleted."
+  },
+  {
+    "file": "244.mp3",
+    "text": "The answer is currently buffering.",
+    "raw_text": "[robotic] The answer is currently buffering."
+  },
+  {
+    "file": "245.mp3",
+    "text": "The answer is in another castle.",
+    "raw_text": "[dramatic] The answer is in another castle."
+  },
+  {
+    "file": "246.mp3",
+    "text": "Ask someone with a degree.",
+    "raw_text": "[deadpan] Ask someone with a degree."
+  },
+  {
+    "file": "247.mp3",
+    "text": "Ask someone with a frog.",
+    "raw_text": "[confused] Ask someone with a frog."
+  },
+  {
+    "file": "248.mp3",
+    "text": "Throw it into the sea and see.",
+    "raw_text": "[casual] Throw it into the sea and see."
+  },
+  {
+    "file": "249.mp3",
+    "text": "Spin around three times and reconsider.",
+    "raw_text": "[mystical] Spin around three times and reconsider."
+  },
+  {
+    "file": "250.mp3",
+    "text": "Close your eyes and choose chaos.",
+    "raw_text": "[triumphant] Close your eyes and choose chaos."
+  },
+  {
+    "file": "251.mp3",
+    "text": "Follow your heart. Not your brain. Never your brain.",
+    "raw_text": "[deadpan] Follow your heart. Not your brain. Never your brain."
+  },
+  {
+    "file": "252.mp3",
+    "text": "Believe in yourself. Unfortunately.",
+    "raw_text": "[inspiring] Believe in yourself. Unfortunately."
+  },
+  {
+    "file": "253.mp3",
+    "text": "You can do anything. Please don't.",
+    "raw_text": "[cheerful] You can do anything. Please don't."
+  },
+  {
+    "file": "254.mp3",
+    "text": "Great things are coming. Hide.",
+    "raw_text": "[dramatic] Great things are coming. Hide."
+  },
+  {
+    "file": "255.mp3",
+    "text": "Follow your dreams. Unless they're weird.",
+    "raw_text": "[casual] Follow your dreams. Unless they're weird."
+  },
+  {
+    "file": "256.mp3",
+    "text": "Today is the first day of the rest of your problems.",
+    "raw_text": "[deadpan] Today is the first day of the rest of your problems."
+  },
+  {
+    "file": "257.mp3",
+    "text": "Never give up. Give up occasionally.",
+    "raw_text": "[encouraging] Never give up. Give up occasionally."
+  },
+  {
+    "file": "258.mp3",
+    "text": "You miss all of the shots you don't take.",
+    "raw_text": "[deadpan] You miss all of the shots you don't take."
+  },
+  {
+    "file": "259.mp3",
+    "text": "You also miss some of the shots you do take.",
+    "raw_text": "[sarcastic] You also miss some of the shots you do take."
+  },
+  {
+    "file": "260.mp3",
+    "text": "Be the change you wish to see.",
+    "raw_text": "[inspiring] Be the change you wish to see."
+  },
+  {
+    "file": "261.mp3",
+    "text": "Or don't. I'm not your boss.",
+    "raw_text": "[casual] Or don't. I'm not your boss."
+  },
+  {
+    "file": "262.mp3",
+    "text": "Reach for the stars. Bring a ladder.",
+    "raw_text": "[grandiose] Reach for the stars. Bring a ladder."
+  },
+  {
+    "file": "263.mp3",
+    "text": "You've got this.",
+    "raw_text": "[encouraging] You've got this."
+  },
+  {
+    "file": "264.mp3",
+    "text": "You've got something.",
+    "raw_text": "[confused] You've got something."
+  },
+  {
+    "file": "265.mp3",
+    "text": "That's probably enough.",
+    "raw_text": "[deadpan] That's probably enough."
+  },
+  {
+    "file": "266.mp3",
+    "text": "Make yourself proud.",
+    "raw_text": "[inspiring] Make yourself proud."
+  },
+  {
+    "file": "267.mp3",
+    "text": "Make someone else concerned.",
+    "raw_text": "[mischievous] Make someone else concerned."
+  },
+  {
+    "file": "268.mp3",
+    "text": "Become the person your dog thinks you are.",
+    "raw_text": "[cheerful] Become the person your dog thinks you are."
+  },
+  {
+    "file": "269.mp3",
+    "text": "Failure is just success wearing a fake mustache.",
+    "raw_text": "[inspiring] Failure is just success wearing a fake mustache."
+  },
+  {
+    "file": "270.mp3",
+    "text": "Greatness begins with questionable decisions.",
+    "raw_text": "[grandiose] Greatness begins with questionable decisions."
+  },
+  {
+    "file": "271.mp3",
+    "text": "Your potential is terrifying.",
+    "raw_text": "[ominous] Your potential is terrifying."
+  },
+  {
+    "file": "272.mp3",
+    "text": "Go forth and make things worse.",
+    "raw_text": "[triumphant] Go forth and make things worse."
+  },
+  {
+    "file": "273.mp3",
+    "text": "Chase your dreams. They're getting away.",
+    "raw_text": "[urgent] Chase your dreams. They're getting away."
+  },
+  {
+    "file": "274.mp3",
+    "text": "Hail, traveler.",
+    "raw_text": "[friendly] Hail, traveler."
+  },
+  {
+    "file": "275.mp3",
+    "text": "What brings you to these lands?",
+    "raw_text": "[curious] What brings you to these lands?"
+  },
+  {
+    "file": "276.mp3",
+    "text": "Ah. You again.",
+    "raw_text": "[annoyed] Ah. You again."
+  },
+  {
+    "file": "277.mp3",
+    "text": "We meet once more.",
+    "raw_text": "[mysterious] We meet once more."
+  },
+  {
+    "file": "278.mp3",
+    "text": "I have nothing to say to you.",
+    "raw_text": "[cold] I have nothing to say to you."
+  },
+  {
+    "file": "279.mp3",
+    "text": "Come back when you're level 12.",
+    "raw_text": "[deadpan] Come back when you're level 12."
+  },
+  {
+    "file": "280.mp3",
+    "text": "You look familiar.",
+    "raw_text": "[suspicious] You look familiar."
+  },
+  {
+    "file": "281.mp3",
+    "text": "Have we spoken before?",
+    "raw_text": "[confused] Have we spoken before?"
+  },
+  {
+    "file": "282.mp3",
+    "text": "I can't help you with that.",
+    "raw_text": "[firm] I can't help you with that."
+  },
+  {
+    "file": "283.mp3",
+    "text": "Try the shop down the road.",
+    "raw_text": "[casual] Try the shop down the road."
+  },
+  {
+    "file": "284.mp3",
+    "text": "The wizard knows.",
+    "raw_text": "[mysterious] The wizard knows."
+  },
+  {
+    "file": "285.mp3",
+    "text": "The blacksmith knows.",
+    "raw_text": "[confident] The blacksmith knows."
+  },
+  {
+    "file": "286.mp3",
+    "text": "Nobody knows.",
+    "raw_text": "[deadpan] Nobody knows."
+  },
+  {
+    "file": "287.mp3",
+    "text": "I wouldn't go into that cave.",
+    "raw_text": "[concerned] I wouldn't go into that cave."
+  },
+  {
+    "file": "288.mp3",
+    "text": "I went into that cave once.",
+    "raw_text": "[nervous] I went into that cave once."
+  },
+  {
+    "file": "289.mp3",
+    "text": "We don't talk about the cave.",
+    "raw_text": "[ominous whisper] We don't talk about the cave."
+  },
+  {
+    "file": "290.mp3",
+    "text": "Anyway, nice weather.",
+    "raw_text": "[casual] Anyway, nice weather."
+  },
+  {
+    "file": "291.mp3",
+    "text": "Strange things have been happening lately.",
+    "raw_text": "[concerned] Strange things have been happening lately."
+  },
+  {
+    "file": "292.mp3",
+    "text": "You didn't hear this from me.",
+    "raw_text": "[whisper] You didn't hear this from me."
+  },
+  {
+    "file": "293.mp3",
+    "text": "Take this. You'll need it.",
+    "raw_text": "[mysterious] Take this. You'll need it."
+  },
+  {
+    "file": "294.mp3",
+    "text": "I don't know what it does.",
+    "raw_text": "[confused] I don't know what it does."
+  },
+  {
+    "file": "295.mp3",
+    "text": "Good luck out there, stranger.",
+    "raw_text": "[friendly] Good luck out there, stranger."
+  },
+  {
+    "file": "296.mp3",
+    "text": "May the road not explode beneath you.",
+    "raw_text": "[cheerful] May the road not explode beneath you."
+  },
+  {
+    "file": "297.mp3",
+    "text": "By order of the king, you are mildly suspicious.",
+    "raw_text": "[royal] By order of the king, you are mildly suspicious."
+  },
+  {
+    "file": "298.mp3",
+    "text": "Drop your weapon and pick up this sandwich.",
+    "raw_text": "[commanding] Drop your weapon and pick up this sandwich."
+  },
+  {
+    "file": "299.mp3",
+    "text": "The kingdom requires your services.",
+    "raw_text": "[grandiose] The kingdom requires your services."
+  },
+  {
+    "file": "300.mp3",
+    "text": "The kingdom requires your resignation.",
+    "raw_text": "[cold] The kingdom requires your resignation."
+  },
+  {
+    "file": "301.mp3",
+    "text": "Summon the royal accountant.",
+    "raw_text": "[commanding] Summon the royal accountant."
+  },
+  {
+    "file": "302.mp3",
+    "text": "Fetch me the sacred turnip.",
+    "raw_text": "[urgent] Fetch me the sacred turnip."
+  },
+  {
+    "file": "303.mp3",
+    "text": "Bring forth the ceremonial bucket.",
+    "raw_text": "[ceremonial] Bring forth the ceremonial bucket."
+  },
+  {
+    "file": "304.mp3",
+    "text": "The wizard has misplaced his pants.",
+    "raw_text": "[confused] The wizard has misplaced his pants."
+  },
+  {
+    "file": "305.mp3",
+    "text": "The knights are arguing again.",
+    "raw_text": "[annoyed] The knights are arguing again."
+  },
+  {
+    "file": "306.mp3",
+    "text": "The peasants have unionized.",
+    "raw_text": "[shocked] The peasants have unionized."
+  },
+  {
+    "file": "307.mp3",
+    "text": "The castle has Wi-Fi now.",
+    "raw_text": "[amazed] The castle has Wi-Fi now."
+  },
+  {
+    "file": "308.mp3",
+    "text": "The dragon has filed a complaint.",
+    "raw_text": "[formal] The dragon has filed a complaint."
+  },
+  {
+    "file": "309.mp3",
+    "text": "The dragon refuses to elaborate.",
+    "raw_text": "[deadpan] The dragon refuses to elaborate."
+  },
+  {
+    "file": "310.mp3",
+    "text": "The royal goose has escaped.",
+    "raw_text": "[urgent] The royal goose has escaped."
+  },
+  {
+    "file": "311.mp3",
+    "text": "Sound the alarm. Or don't.",
+    "raw_text": "[panicked] Sound the alarm. Or don't."
+  },
+  {
+    "file": "312.mp3",
+    "text": "Prepare the trebuchet.",
+    "raw_text": "[commanding] Prepare the trebuchet."
+  },
+  {
+    "file": "313.mp3",
+    "text": "Cancel the trebuchet.",
+    "raw_text": "[deadpan] Cancel the trebuchet."
+  },
+  {
+    "file": "314.mp3",
+    "text": "Who gave the trebuchet a Spotify account?",
+    "raw_text": "[confused] Who gave the trebuchet a Spotify account?"
+  },
+  {
+    "file": "315.mp3",
+    "text": "The dungeon has been renovated.",
+    "raw_text": "[cheerful] The dungeon has been renovated."
+  },
+  {
+    "file": "316.mp3",
+    "text": "Please remove your armor before entering the gift shop.",
+    "raw_text": "[formal] Please remove your armor before entering the gift shop."
+  },
+  {
+    "file": "317.mp3",
+    "text": "The sandwich knows.",
+    "raw_text": "[ominous] The sandwich knows."
+  },
+  {
+    "file": "318.mp3",
+    "text": "The soup is watching.",
+    "raw_text": "[whisper] The soup is watching."
+  },
+  {
+    "file": "319.mp3",
+    "text": "The bread has risen.",
+    "raw_text": "[grandiose] The bread has risen."
+  },
+  {
+    "file": "320.mp3",
+    "text": "The bread has risen against us.",
+    "raw_text": "[ominous] The bread has risen against us."
+  },
+  {
+    "file": "321.mp3",
+    "text": "Never trust a wet tortilla.",
+    "raw_text": "[suspicious] Never trust a wet tortilla."
+  },
+  {
+    "file": "322.mp3",
+    "text": "The cheese has chosen you.",
+    "raw_text": "[mystical] The cheese has chosen you."
+  },
+  {
+    "file": "323.mp3",
+    "text": "The cheese has rejected you.",
+    "raw_text": "[disappointed] The cheese has rejected you."
+  },
+  {
+    "file": "324.mp3",
+    "text": "You have been deemed worthy by the potato.",
+    "raw_text": "[ceremonial] You have been deemed worthy by the potato."
+  },
+  {
+    "file": "325.mp3",
+    "text": "The potato demands tribute.",
+    "raw_text": "[commanding] The potato demands tribute."
+  },
+  {
+    "file": "326.mp3",
+    "text": "The banana is too powerful.",
+    "raw_text": "[ominous] The banana is too powerful."
+  },
+  {
+    "file": "327.mp3",
+    "text": "Do not peel it.",
+    "raw_text": "[urgent whisper] Do not peel it."
+  },
+  {
+    "file": "328.mp3",
+    "text": "The grapes have formed a union.",
+    "raw_text": "[authoritative] The grapes have formed a union."
+  },
+  {
+    "file": "329.mp3",
+    "text": "The chicken nugget has achieved enlightenment.",
+    "raw_text": "[mystical] The chicken nugget has achieved enlightenment."
+  },
+  {
+    "file": "330.mp3",
+    "text": "The fridge contains forbidden knowledge.",
+    "raw_text": "[ominous] The fridge contains forbidden knowledge."
+  },
+  {
+    "file": "331.mp3",
+    "text": "The cereal is getting louder.",
+    "raw_text": "[concerned] The cereal is getting louder."
+  },
+  {
+    "file": "332.mp3",
+    "text": "Someone ate the last cookie.",
+    "raw_text": "[sad] Someone ate the last cookie."
+  },
+  {
+    "file": "333.mp3",
+    "text": "We know who did it.",
+    "raw_text": "[ominous] We know who did it."
+  },
+  {
+    "file": "334.mp3",
+    "text": "It was Greg.",
+    "raw_text": "[angry] It was Greg."
+  },
+  {
+    "file": "335.mp3",
+    "text": "It is always Greg.",
+    "raw_text": "[deadpan] It is always Greg."
+  },
+  {
+    "file": "336.mp3",
+    "text": "The spaghetti has become sentient.",
+    "raw_text": "[horrified] The spaghetti has become sentient."
+  },
+  {
+    "file": "337.mp3",
+    "text": "The lasagna remembers.",
+    "raw_text": "[ominous whisper] The lasagna remembers."
+  },
+  {
+    "file": "338.mp3",
+    "text": "The cat has a plan.",
+    "raw_text": "[ominous] The cat has a plan."
+  },
+  {
+    "file": "339.mp3",
+    "text": "Do not interrupt the cat.",
+    "raw_text": "[commanding] Do not interrupt the cat."
+  },
+  {
+    "file": "340.mp3",
+    "text": "The dog has been promoted.",
+    "raw_text": "[proud] The dog has been promoted."
+  },
+  {
+    "file": "341.mp3",
+    "text": "The dog is now your manager.",
+    "raw_text": "[formal] The dog is now your manager."
+  },
+  {
+    "file": "342.mp3",
+    "text": "The horse would like a word.",
+    "raw_text": "[serious] The horse would like a word."
+  },
+  {
+    "file": "343.mp3",
+    "text": "The horse has declined to comment.",
+    "raw_text": "[deadpan] The horse has declined to comment."
+  },
+  {
+    "file": "344.mp3",
+    "text": "The goose has entered the building.",
+    "raw_text": "[urgent] The goose has entered the building."
+  },
+  {
+    "file": "345.mp3",
+    "text": "You have angered the goose.",
+    "raw_text": "[angry] You have angered the goose."
+  },
+  {
+    "file": "346.mp3",
+    "text": "You have always angered the goose.",
+    "raw_text": "[ominous] You have always angered the goose."
+  },
+  {
+    "file": "347.mp3",
+    "text": "The duck has your documents.",
+    "raw_text": "[serious] The duck has your documents."
+  },
+  {
+    "file": "348.mp3",
+    "text": "The duck refuses to negotiate.",
+    "raw_text": "[firm] The duck refuses to negotiate."
+  },
+  {
+    "file": "349.mp3",
+    "text": "The squirrel has stolen something important.",
+    "raw_text": "[concerned] The squirrel has stolen something important."
+  },
+  {
+    "file": "350.mp3",
+    "text": "The squirrel knows your name.",
+    "raw_text": "[ominous whisper] The squirrel knows your name."
+  },
+  {
+    "file": "351.mp3",
+    "text": "The pigeon has a warrant.",
+    "raw_text": "[suspicious] The pigeon has a warrant."
+  },
+  {
+    "file": "352.mp3",
+    "text": "The pigeon is undercover.",
+    "raw_text": "[mysterious] The pigeon is undercover."
+  },
+  {
+    "file": "353.mp3",
+    "text": "The raccoon has diplomatic immunity.",
+    "raw_text": "[confident] The raccoon has diplomatic immunity."
+  },
+  {
+    "file": "354.mp3",
+    "text": "The frog has excellent credit.",
+    "raw_text": "[cheerful] The frog has excellent credit."
+  },
+  {
+    "file": "355.mp3",
+    "text": "The fish has seen the future.",
+    "raw_text": "[ominous] The fish has seen the future."
+  },
+  {
+    "file": "356.mp3",
+    "text": "The fish wishes it hadn't.",
+    "raw_text": "[sad] The fish wishes it hadn't."
+  },
+  {
+    "file": "357.mp3",
+    "text": "The crab has a lawyer.",
+    "raw_text": "[serious] The crab has a lawyer."
+  },
+  {
+    "file": "358.mp3",
+    "text": "Never challenge a crab.",
+    "raw_text": "[warning] Never challenge a crab."
+  },
+  {
+    "file": "359.mp3",
+    "text": "They like you.",
+    "raw_text": "[mysterious] They like you."
+  },
+  {
+    "file": "360.mp3",
+    "text": "They tolerate you.",
+    "raw_text": "[deadpan] They tolerate you."
+  },
+  {
+    "file": "361.mp3",
+    "text": "They have seen your search history.",
+    "raw_text": "[concerned] They have seen your search history."
+  },
+  {
+    "file": "362.mp3",
+    "text": "Love is in the air.",
+    "raw_text": "[romantic] Love is in the air."
+  },
+  {
+    "file": "363.mp3",
+    "text": "Unfortunately, so is pollen.",
+    "raw_text": "[disappointed] Unfortunately, so is pollen."
+  },
+  {
+    "file": "364.mp3",
+    "text": "Your soulmate is nearby.",
+    "raw_text": "[romantic] Your soulmate is nearby."
+  },
+  {
+    "file": "365.mp3",
+    "text": "Your soulmate is avoiding you.",
+    "raw_text": "[sad] Your soulmate is avoiding you."
+  },
+  {
+    "file": "366.mp3",
+    "text": "Romance awaits.",
+    "raw_text": "[romantic] Romance awaits."
+  },
+  {
+    "file": "367.mp3",
+    "text": "Romance has been postponed.",
+    "raw_text": "[formal] Romance has been postponed."
+  },
+  {
+    "file": "368.mp3",
+    "text": "Cupid has resigned.",
+    "raw_text": "[dramatic] Cupid has resigned."
+  },
+  {
+    "file": "369.mp3",
+    "text": "Cupid has been replaced by a goose.",
+    "raw_text": "[absurd] Cupid has been replaced by a goose."
+  },
+  {
+    "file": "370.mp3",
+    "text": "Someone is thinking about you.",
+    "raw_text": "[mysterious] Someone is thinking about you."
+  },
+  {
+    "file": "371.mp3",
+    "text": "Someone is thinking about your sandwich.",
+    "raw_text": "[deadpan] Someone is thinking about your sandwich."
+  },
+  {
+    "file": "372.mp3",
+    "text": "You will find love at the supermarket.",
+    "raw_text": "[romantic] You will find love at the supermarket."
+  },
+  {
+    "file": "373.mp3",
+    "text": "You will find something at the supermarket.",
+    "raw_text": "[casual] You will find something at the supermarket."
+  },
+  {
+    "file": "374.mp3",
+    "text": "Don't text them.",
+    "raw_text": "[urgent] Don't text them."
+  },
+  {
+    "file": "375.mp3",
+    "text": "Text them.",
+    "raw_text": "[encouraging] Text them."
+  },
+  {
+    "file": "376.mp3",
+    "text": "Actually, don't.",
+    "raw_text": "[panicked] Actually, don't."
+  },
+  {
+    "file": "377.mp3",
+    "text": "Put the phone down.",
+    "raw_text": "[commanding] Put the phone down."
+  },
+  {
+    "file": "378.mp3",
+    "text": "Your heart knows the answer.",
+    "raw_text": "[mysterious] Your heart knows the answer."
+  },
+  {
+    "file": "379.mp3",
+    "text": "Your brain knows better.",
+    "raw_text": "[deadpan] Your brain knows better."
+  },
+  {
+    "file": "380.mp3",
+    "text": "Why are you here?",
+    "raw_text": "[philosophical] Why are you here?"
+  },
+  {
+    "file": "381.mp3",
+    "text": "Why am I here?",
+    "raw_text": "[confused] Why am I here?"
+  },
+  {
+    "file": "382.mp3",
+    "text": "Why is anything here?",
+    "raw_text": "[philosophical] Why is anything here?"
+  },
+  {
+    "file": "383.mp3",
+    "text": "We don't have time for that.",
+    "raw_text": "[tired] We don't have time for that."
+  },
+  {
+    "file": "384.mp3",
+    "text": "None of this matters.",
+    "raw_text": "[ominous] None of this matters."
+  },
+  {
+    "file": "385.mp3",
+    "text": "Everything matters.",
+    "raw_text": "[grandiose] Everything matters."
+  },
+  {
+    "file": "386.mp3",
+    "text": "Unfortunately, both are true.",
+    "raw_text": "[deadpan] Unfortunately, both are true."
+  },
+  {
+    "file": "387.mp3",
+    "text": "You are a temporary arrangement of atoms.",
+    "raw_text": "[philosophical] You are a temporary arrangement of atoms."
+  },
+  {
+    "file": "388.mp3",
+    "text": "Congratulations on existing.",
+    "raw_text": "[cheerful] Congratulations on existing."
+  },
+  {
+    "file": "389.mp3",
+    "text": "Existence has been approved.",
+    "raw_text": "[robotic] Existence has been approved."
+  },
+  {
+    "file": "390.mp3",
+    "text": "Your warranty has expired.",
+    "raw_text": "[bureaucratic] Your warranty has expired."
+  },
+  {
+    "file": "391.mp3",
+    "text": "Reality is optional.",
+    "raw_text": "[mysterious] Reality is optional."
+  },
+  {
+    "file": "392.mp3",
+    "text": "Reality has questionable design choices.",
+    "raw_text": "[deadpan] Reality has questionable design choices."
+  },
+  {
+    "file": "393.mp3",
+    "text": "Nothing makes sense.",
+    "raw_text": "[concerned] Nothing makes sense."
+  },
+  {
+    "file": "394.mp3",
+    "text": "That's probably for the best.",
+    "raw_text": "[casual] That's probably for the best."
+  },
+  {
+    "file": "395.mp3",
+    "text": "The void says hello.",
+    "raw_text": "[ominous] The void says hello."
+  },
+  {
+    "file": "396.mp3",
+    "text": "The void says goodbye.",
+    "raw_text": "[ominous] The void says goodbye."
+  },
+  {
+    "file": "397.mp3",
+    "text": "The void wants its bucket back.",
+    "raw_text": "[annoyed] The void wants its bucket back."
+  },
+  {
+    "file": "398.mp3",
+    "text": "Somewhere, a universe is doing this better.",
+    "raw_text": "[mysterious] Somewhere, a universe is doing this better."
+  },
+  {
+    "file": "399.mp3",
+    "text": "Somewhere, a universe is doing this much worse.",
+    "raw_text": "[deadpan] Somewhere, a universe is doing this much worse."
+  },
+  {
+    "file": "400.mp3",
+    "text": "Skill issue.",
+    "raw_text": "[mocking] Skill issue."
+  },
+  {
+    "file": "401.mp3",
+    "text": "Massive skill issue.",
+    "raw_text": "[mocking] Massive skill issue."
+  },
+  {
+    "file": "402.mp3",
+    "text": "Uninstall.",
+    "raw_text": "[commanding] Uninstall."
+  },
+  {
+    "file": "403.mp3",
+    "text": "Touch grass.",
+    "raw_text": "[annoyed] Touch grass."
+  },
+  {
+    "file": "404.mp3",
+    "text": "You have entered the boss arena.",
+    "raw_text": "[dramatic] You have entered the boss arena."
+  },
+  {
+    "file": "405.mp3",
+    "text": "There is no boss arena.",
+    "raw_text": "[confused] There is no boss arena."
+  },
+  {
+    "file": "406.mp3",
+    "text": "Surprise boss.",
+    "raw_text": "[surprised] Surprise boss."
+  },
+  {
+    "file": "407.mp3",
+    "text": "The tutorial has ended.",
+    "raw_text": "[grandiose] The tutorial has ended."
+  },
+  {
+    "file": "408.mp3",
+    "text": "You skipped the tutorial.",
+    "raw_text": "[concerned] You skipped the tutorial."
+  },
+  {
+    "file": "409.mp3",
+    "text": "You probably shouldn't have skipped the tutorial.",
+    "raw_text": "[disappointed] You probably shouldn't have skipped the tutorial."
+  },
+  {
+    "file": "410.mp3",
+    "text": "New achievement unlocked: Regret.",
+    "raw_text": "[cheerful] New achievement unlocked: Regret."
+  },
+  {
+    "file": "411.mp3",
+    "text": "Legendary loot acquired: a spoon.",
+    "raw_text": "[excited] Legendary loot acquired: a spoon."
+  },
+  {
+    "file": "412.mp3",
+    "text": "Critical failure.",
+    "raw_text": "[dramatic] Critical failure."
+  },
+  {
+    "file": "413.mp3",
+    "text": "Critical success.",
+    "raw_text": "[triumphant] Critical success."
+  },
+  {
+    "file": "414.mp3",
+    "text": "Critical sandwich.",
+    "raw_text": "[confused] Critical sandwich."
+  },
+  {
+    "file": "415.mp3",
+    "text": "You have been debuffed.",
+    "raw_text": "[robotic] You have been debuffed."
+  },
+  {
+    "file": "416.mp3",
+    "text": "Debuff: embarrassing.",
+    "raw_text": "[deadpan] Debuff: embarrassing."
+  },
+  {
+    "file": "417.mp3",
+    "text": "Buff: confidence.",
+    "raw_text": "[triumphant] Buff: confidence."
+  },
+  {
+    "file": "418.mp3",
+    "text": "Nerf: common sense.",
+    "raw_text": "[robotic] Nerf: common sense."
+  },
+  {
+    "file": "419.mp3",
+    "text": "Your inventory is full of garbage.",
+    "raw_text": "[annoyed] Your inventory is full of garbage."
+  },
+  {
+    "file": "420.mp3",
+    "text": "You have equipped the wrong shoes.",
+    "raw_text": "[confused] You have equipped the wrong shoes."
+  },
+  {
+    "file": "421.mp3",
+    "text": "The NPCs are talking about you.",
+    "raw_text": "[ominous] The NPCs are talking about you."
+  },
+  {
+    "file": "422.mp3",
+    "text": "The final boss is surprisingly polite.",
+    "raw_text": "[polite] The final boss is surprisingly polite."
+  },
+  {
+    "file": "423.mp3",
+    "text": "The final boss wants a refund.",
+    "raw_text": "[confused] The final boss wants a refund."
+  },
+  {
+    "file": "424.mp3",
+    "text": "They don't want you to know about the spoon.",
+    "raw_text": "[ominous whisper] They don't want you to know about the spoon."
+  },
+  {
+    "file": "425.mp3",
+    "text": "Follow the pigeons.",
+    "raw_text": "[mysterious] Follow the pigeons."
+  },
+  {
+    "file": "426.mp3",
+    "text": "The moon is hiding something.",
+    "raw_text": "[suspicious] The moon is hiding something."
+  },
+  {
+    "file": "427.mp3",
+    "text": "The birds are acting suspicious.",
+    "raw_text": "[concerned] The birds are acting suspicious."
+  },
+  {
+    "file": "428.mp3",
+    "text": "The government knows about the cheese.",
+    "raw_text": "[conspiratorial whisper] The government knows about the cheese."
+  },
+  {
+    "file": "429.mp3",
+    "text": "The ducks are not what they seem.",
+    "raw_text": "[ominous] The ducks are not what they seem."
+  },
+  {
+    "file": "430.mp3",
+    "text": "Someone has moved the moon.",
+    "raw_text": "[shocked whisper] Someone has moved the moon."
+  },
+  {
+    "file": "431.mp3",
+    "text": "There were supposed to be two moons.",
+    "raw_text": "[confused] There were supposed to be two moons."
+  },
+  {
+    "file": "432.mp3",
+    "text": "The second moon was removed for legal reasons.",
+    "raw_text": "[deadpan] The second moon was removed for legal reasons."
+  },
+  {
+    "file": "433.mp3",
+    "text": "The squirrels are coordinating.",
+    "raw_text": "[ominous] The squirrels are coordinating."
+  },
+  {
+    "file": "434.mp3",
+    "text": "The vending machine is listening.",
+    "raw_text": "[suspicious] The vending machine is listening."
+  },
+  {
+    "file": "435.mp3",
+    "text": "Your toaster has been compromised.",
+    "raw_text": "[ominous whisper] Your toaster has been compromised."
+  },
+  {
+    "file": "436.mp3",
+    "text": "The walls have Bluetooth.",
+    "raw_text": "[paranoid] The walls have Bluetooth."
+  },
+  {
+    "file": "437.mp3",
+    "text": "The floor is part of it.",
+    "raw_text": "[ominous] The floor is part of it."
+  },
+  {
+    "file": "438.mp3",
+    "text": "Don't trust Tuesday.",
+    "raw_text": "[serious whisper] Don't trust Tuesday."
+  },
+  {
+    "file": "439.mp3",
+    "text": "Tuesday knows too much.",
+    "raw_text": "[ominous] Tuesday knows too much."
+  },
+  {
+    "file": "440.mp3",
+    "text": "The left sock is working for them.",
+    "raw_text": "[suspicious] The left sock is working for them."
+  },
+  {
+    "file": "441.mp3",
+    "text": "Check the ceiling.",
+    "raw_text": "[urgent whisper] Check the ceiling."
+  },
+  {
+    "file": "442.mp3",
+    "text": "Never check the ceiling.",
+    "raw_text": "[panicked] Never check the ceiling."
+  },
+  {
+    "file": "443.mp3",
+    "text": "Forget I said anything.",
+    "raw_text": "[whisper] Forget I said anything."
+  },
+  {
+    "file": "444.mp3",
+    "text": "Today's forecast: confusion.",
+    "raw_text": "[news anchor] Today's forecast: confusion."
+  },
+  {
+    "file": "445.mp3",
+    "text": "Chance of nonsense: 87 percent.",
+    "raw_text": "[news anchor] Chance of nonsense: 87 percent."
+  },
+  {
+    "file": "446.mp3",
+    "text": "Expect scattered consequences.",
+    "raw_text": "[serious] Expect scattered consequences."
+  },
+  {
+    "file": "447.mp3",
+    "text": "Heavy embarrassment in the afternoon.",
+    "raw_text": "[dramatic] Heavy embarrassment in the afternoon."
+  },
+  {
+    "file": "448.mp3",
+    "text": "Winds are coming from somewhere.",
+    "raw_text": "[confused] Winds are coming from somewhere."
+  },
+  {
+    "file": "449.mp3",
+    "text": "Visibility: questionable.",
+    "raw_text": "[formal] Visibility: questionable."
+  },
+  {
+    "file": "450.mp3",
+    "text": "There is a storm approaching.",
+    "raw_text": "[ominous] There is a storm approaching."
+  },
+  {
+    "file": "451.mp3",
+    "text": "It's actually just a guy running.",
+    "raw_text": "[deadpan] It's actually just a guy running."
+  },
+  {
+    "file": "452.mp3",
+    "text": "Temperatures are normal.",
+    "raw_text": "[calm] Temperatures are normal."
+  },
+  {
+    "file": "453.mp3",
+    "text": "Everything else is not.",
+    "raw_text": "[concerned] Everything else is not."
+  },
+  {
+    "file": "454.mp3",
+    "text": "Severe goose warning.",
+    "raw_text": "[urgent] Severe goose warning."
+  },
+  {
+    "file": "455.mp3",
+    "text": "Tornado watch.",
+    "raw_text": "[news anchor] Tornado watch."
+  },
+  {
+    "file": "456.mp3",
+    "text": "Spoon advisory.",
+    "raw_text": "[formal] Spoon advisory."
+  },
+  {
+    "file": "457.mp3",
+    "text": "High chance of mysterious puddles.",
+    "raw_text": "[concerned] High chance of mysterious puddles."
+  },
+  {
+    "file": "458.mp3",
+    "text": "Bring an umbrella.",
+    "raw_text": "[friendly] Bring an umbrella."
+  },
+  {
+    "file": "459.mp3",
+    "text": "Not for rain.",
+    "raw_text": "[ominous] Not for rain."
+  },
+  {
+    "file": "460.mp3",
+    "text": "You'll understand later.",
+    "raw_text": "[mysterious] You'll understand later."
+  },
+  {
+    "file": "461.mp3",
+    "text": "Soldier, acquire the sandwich.",
+    "raw_text": "[commanding] Soldier, acquire the sandwich."
+  },
+  {
+    "file": "462.mp3",
+    "text": "We move at dawn.",
+    "raw_text": "[grandiose] We move at dawn."
+  },
+  {
+    "file": "463.mp3",
+    "text": "We move at lunch.",
+    "raw_text": "[serious] We move at lunch."
+  },
+  {
+    "file": "464.mp3",
+    "text": "We have decided not to move.",
+    "raw_text": "[deadpan] We have decided not to move."
+  },
+  {
+    "file": "465.mp3",
+    "text": "Hold the line.",
+    "raw_text": "[commanding] Hold the line."
+  },
+  {
+    "file": "466.mp3",
+    "text": "Which line?",
+    "raw_text": "[confused] Which line?"
+  },
+  {
+    "file": "467.mp3",
+    "text": "That line.",
+    "raw_text": "[firm] That line."
+  },
+  {
+    "file": "468.mp3",
+    "text": "No, the other line.",
+    "raw_text": "[annoyed] No, the other line."
+  },
+  {
+    "file": "469.mp3",
+    "text": "Fall back!",
+    "raw_text": "[urgent] Fall back!"
+  },
+  {
+    "file": "470.mp3",
+    "text": "Fall forward!",
+    "raw_text": "[confused] Fall forward!"
+  },
+  {
+    "file": "471.mp3",
+    "text": "Fall sideways!",
+    "raw_text": "[absurdly commanding] Fall sideways!"
+  },
+  {
+    "file": "472.mp3",
+    "text": "Deploy the ducks.",
+    "raw_text": "[commanding] Deploy the ducks."
+  },
+  {
+    "file": "473.mp3",
+    "text": "Activate the bucket.",
+    "raw_text": "[dramatic] Activate the bucket."
+  },
+  {
+    "file": "474.mp3",
+    "text": "Secure the snacks.",
+    "raw_text": "[urgent] Secure the snacks."
+  },
+  {
+    "file": "475.mp3",
+    "text": "Protect the cheese at all costs.",
+    "raw_text": "[serious] Protect the cheese at all costs."
+  },
+  {
+    "file": "476.mp3",
+    "text": "The enemy has discovered our weakness: stairs.",
+    "raw_text": "[panicked] The enemy has discovered our weakness: stairs."
+  },
+  {
+    "file": "477.mp3",
+    "text": "Retreat to the nearest IKEA.",
+    "raw_text": "[commanding] Retreat to the nearest IKEA."
+  },
+  {
+    "file": "478.mp3",
+    "text": "Operation Banana is a go.",
+    "raw_text": "[excited] Operation Banana is a go."
+  },
+  {
+    "file": "479.mp3",
+    "text": "Operation Banana has gone terribly wrong.",
+    "raw_text": "[panicked] Operation Banana has gone terribly wrong."
+  },
+  {
+    "file": "480.mp3",
+    "text": "Abort banana.",
+    "raw_text": "[urgent] Abort banana."
+  },
+  {
+    "file": "481.mp3",
+    "text": "Repeat: abort banana.",
+    "raw_text": "[commanding] Repeat: abort banana."
+  },
+  {
+    "file": "482.mp3",
+    "text": "Once upon a time, you made a terrible decision.",
+    "raw_text": "[storybook] Once upon a time, you made a terrible decision."
+  },
+  {
+    "file": "483.mp3",
+    "text": "The princess has left the chat.",
+    "raw_text": "[dramatic] The princess has left the chat."
+  },
+  {
+    "file": "484.mp3",
+    "text": "The frog was never a prince.",
+    "raw_text": "[mysterious] The frog was never a prince."
+  },
+  {
+    "file": "485.mp3",
+    "text": "The wolf wants to negotiate.",
+    "raw_text": "[serious] The wolf wants to negotiate."
+  },
+  {
+    "file": "486.mp3",
+    "text": "The witch has a podcast now.",
+    "raw_text": "[deadpan] The witch has a podcast now."
+  },
+  {
+    "file": "487.mp3",
+    "text": "The magic mirror refuses to cooperate.",
+    "raw_text": "[confused] The magic mirror refuses to cooperate."
+  },
+  {
+    "file": "488.mp3",
+    "text": "The enchanted forest has poor parking.",
+    "raw_text": "[cheerful] The enchanted forest has poor parking."
+  },
+  {
+    "file": "489.mp3",
+    "text": "The dragon wants vegetarian options.",
+    "raw_text": "[concerned] The dragon wants vegetarian options."
+  },
+  {
+    "file": "490.mp3",
+    "text": "The fairy godmother is on break.",
+    "raw_text": "[tired] The fairy godmother is on break."
+  },
+  {
+    "file": "491.mp3",
+    "text": "The magic spell requires a subscription.",
+    "raw_text": "[robotic] The magic spell requires a subscription."
+  },
+  {
+    "file": "492.mp3",
+    "text": "The curse has a 14-day free trial.",
+    "raw_text": "[cheerful] The curse has a 14-day free trial."
+  },
+  {
+    "file": "493.mp3",
+    "text": "The glass slipper has been recalled.",
+    "raw_text": "[formal] The glass slipper has been recalled."
+  },
+  {
+    "file": "494.mp3",
+    "text": "The kingdom has lost the password.",
+    "raw_text": "[confused] The kingdom has lost the password."
+  },
+  {
+    "file": "495.mp3",
+    "text": "The happy ending has been delayed.",
+    "raw_text": "[dramatic] The happy ending has been delayed."
+  },
+  {
+    "file": "496.mp3",
+    "text": "You need to buy toothpaste.",
+    "raw_text": "[serious] You need to buy toothpaste."
+  },
+  {
+    "file": "497.mp3",
+    "text": "Your laundry is waiting.",
+    "raw_text": "[ominous] Your laundry is waiting."
+  },
+  {
+    "file": "498.mp3",
+    "text": "The fridge is making that noise again.",
+    "raw_text": "[concerned] The fridge is making that noise again."
+  },
+  {
+    "file": "499.mp3",
+    "text": "You forgot to charge your phone.",
+    "raw_text": "[solemn] You forgot to charge your phone."
+  },
+  {
+    "file": "500.mp3",
+    "text": "There is no more bread.",
+    "raw_text": "[dramatic] There is no more bread."
+  },
+  {
+    "file": "501.mp3",
+    "text": "Your socks are slightly damp.",
+    "raw_text": "[disappointed] Your socks are slightly damp."
+  },
+  {
+    "file": "502.mp3",
+    "text": "You left the window open.",
+    "raw_text": "[concerned] You left the window open."
+  },
+  {
+    "file": "503.mp3",
+    "text": "Your package has arrived.",
+    "raw_text": "[dramatic] Your package has arrived."
+  },
+  {
+    "file": "504.mp3",
+    "text": "Someone moved your chair.",
+    "raw_text": "[annoyed] Someone moved your chair."
+  },
+  {
+    "file": "505.mp3",
+    "text": "The Wi-Fi is thinking about it.",
+    "raw_text": "[robotic] The Wi-Fi is thinking about it."
+  },
+  {
+    "file": "506.mp3",
+    "text": "Your battery is at 3 percent.",
+    "raw_text": "[ominous] Your battery is at 3 percent."
+  },
+  {
+    "file": "507.mp3",
+    "text": "You have an unread email.",
+    "raw_text": "[dramatic] You have an unread email."
+  },
+  {
+    "file": "508.mp3",
+    "text": "The milk expires tomorrow.",
+    "raw_text": "[serious] The milk expires tomorrow."
+  },
+  {
+    "file": "509.mp3",
+    "text": "Your alarm is set for 6 AM.",
+    "raw_text": "[ominous] Your alarm is set for 6 AM."
+  },
+  {
+    "file": "510.mp3",
+    "text": "You have chosen poorly. Also, you're out of eggs.",
+    "raw_text": "[deadpan] You have chosen poorly. Also, you're out of eggs."
+  },
+  {
+    "file": "511.mp3",
+    "text": "The printer has seen what you've done.",
+    "raw_text": "[ominous] The printer has seen what you've done."
+  },
+  {
+    "file": "512.mp3",
+    "text": "Your room needs cleaning.",
+    "raw_text": "[judgmental] Your room needs cleaning."
+  },
+  {
+    "file": "513.mp3",
+    "text": "The dishwasher is finished.",
+    "raw_text": "[cheerful] The dishwasher is finished."
+  },
+  {
+    "file": "514.mp3",
+    "text": "You have forgotten why you walked into the room.",
+    "raw_text": "[confused] You have forgotten why you walked into the room."
+  },
+  {
+    "file": "515.mp3",
+    "text": "Your charger has betrayed you.",
+    "raw_text": "[ominous] Your charger has betrayed you."
+  },
+  {
+    "file": "516.mp3",
+    "text": "You have the energy of a wet napkin.",
+    "raw_text": "[deadpan] You have the energy of a wet napkin."
+  },
+  {
+    "file": "517.mp3",
+    "text": "You absolute traffic cone.",
+    "raw_text": "[mocking] You absolute traffic cone."
+  },
+  {
+    "file": "518.mp3",
+    "text": "You magnificent potato.",
+    "raw_text": "[affectionate] You magnificent potato."
+  },
+  {
+    "file": "519.mp3",
+    "text": "You suspicious little creature.",
+    "raw_text": "[judgmental] You suspicious little creature."
+  },
+  {
+    "file": "520.mp3",
+    "text": "You walking typo.",
+    "raw_text": "[deadpan] You walking typo."
+  },
+  {
+    "file": "521.mp3",
+    "text": "You emotionally complicated spoon.",
+    "raw_text": "[confused] You emotionally complicated spoon."
+  },
+  {
+    "file": "522.mp3",
+    "text": "You look like you owe a duck money.",
+    "raw_text": "[mocking] You look like you owe a duck money."
+  },
+  {
+    "file": "523.mp3",
+    "text": "You have the aura of an unplugged refrigerator.",
+    "raw_text": "[judgmental] You have the aura of an unplugged refrigerator."
+  },
+  {
+    "file": "524.mp3",
+    "text": "Your brain is buffering.",
+    "raw_text": "[deadpan] Your brain is buffering."
+  },
+  {
+    "file": "525.mp3",
+    "text": "Your thoughts have poor internet.",
+    "raw_text": "[mocking] Your thoughts have poor internet."
+  },
+  {
+    "file": "526.mp3",
+    "text": "You are built like a side quest.",
+    "raw_text": "[deadpan] You are built like a side quest."
+  },
+  {
+    "file": "527.mp3",
+    "text": "You have the confidence of someone who has never read the instructions.",
+    "raw_text": "[judgmental] You have the confidence of someone who has never read the instructions."
+  },
+  {
+    "file": "528.mp3",
+    "text": "You are not beating the allegations.",
+    "raw_text": "[mocking] You are not beating the allegations."
+  },
+  {
+    "file": "529.mp3",
+    "text": "You have been outsmarted by a chair.",
+    "raw_text": "[disappointed] You have been outsmarted by a chair."
+  },
+  {
+    "file": "530.mp3",
+    "text": "Even the chair is disappointed.",
+    "raw_text": "[deadpan] Even the chair is disappointed."
+  },
+  {
+    "file": "531.mp3",
+    "text": "Your last brain cell has resigned.",
+    "raw_text": "[dramatic] Your last brain cell has resigned."
+  },
+  {
+    "file": "532.mp3",
+    "text": "Your common sense has gone on vacation.",
+    "raw_text": "[sad] Your common sense has gone on vacation."
+  },
+  {
+    "file": "533.mp3",
+    "text": "You are operating on experimental software.",
+    "raw_text": "[robotic] You are operating on experimental software."
+  },
+  {
+    "file": "534.mp3",
+    "text": "ATTENTION.",
+    "raw_text": "[loud] ATTENTION."
+  },
+  {
+    "file": "535.mp3",
+    "text": "This is not a drill.",
+    "raw_text": "[urgent] This is not a drill."
+  },
+  {
+    "file": "536.mp3",
+    "text": "This is also not particularly important.",
+    "raw_text": "[deadpan] This is also not particularly important."
+  },
+  {
+    "file": "537.mp3",
+    "text": "We interrupt this nonsense for more nonsense.",
+    "raw_text": "[announcer] We interrupt this nonsense for more nonsense."
+  },
+  {
+    "file": "538.mp3",
+    "text": "Ladies and gentlemen, we have a situation.",
+    "raw_text": "[dramatic] Ladies and gentlemen, we have a situation."
+  },
+  {
+    "file": "539.mp3",
+    "text": "We have an update.",
+    "raw_text": "[formal] We have an update."
+  },
+  {
+    "file": "540.mp3",
+    "text": "The update is worse.",
+    "raw_text": "[ominous] The update is worse."
+  },
+  {
+    "file": "541.mp3",
+    "text": "Important news.",
+    "raw_text": "[serious] Important news."
+  },
+  {
+    "file": "542.mp3",
+    "text": "Extremely important news.",
+    "raw_text": "[very serious] Extremely important news."
+  },
+  {
+    "file": "543.mp3",
+    "text": "Actually, never mind.",
+    "raw_text": "[casual] Actually, never mind."
+  },
+  {
+    "file": "544.mp3",
+    "text": "Please remain calm.",
+    "raw_text": "[calm] Please remain calm."
+  },
+  {
+    "file": "545.mp3",
+    "text": "Nobody remain calm.",
+    "raw_text": "[panicked] Nobody remain calm."
+  },
+  {
+    "file": "546.mp3",
+    "text": "We have lost the plot.",
+    "raw_text": "[defeated] We have lost the plot."
+  },
+  {
+    "file": "547.mp3",
+    "text": "The plot has been located.",
+    "raw_text": "[excited] The plot has been located."
+  },
+  {
+    "file": "548.mp3",
+    "text": "The plot has escaped again.",
+    "raw_text": "[panicked] The plot has escaped again."
+  },
+  {
+    "file": "549.mp3",
+    "text": "There has been an incident.",
+    "raw_text": "[dramatic] There has been an incident."
+  },
+  {
+    "file": "550.mp3",
+    "text": "We cannot discuss the incident.",
+    "raw_text": "[ominous whisper] We cannot discuss the incident."
+  },
+  {
+    "file": "551.mp3",
+    "text": "You were not supposed to hear that.",
+    "raw_text": "[shocked] You were not supposed to hear that."
+  },
+  {
+    "file": "552.mp3",
+    "text": "Thank you for your cooperation.",
+    "raw_text": "[formal] Thank you for your cooperation."
+  },
+  {
+    "file": "553.mp3",
+    "text": "There will be no questions at this time.",
+    "raw_text": "[deadpan] There will be no questions at this time."
+  },
+  {
+    "file": "554.mp3",
+    "text": "The spoon has achieved orbit.",
+    "raw_text": "[shocked] The spoon has achieved orbit."
+  },
+  {
+    "file": "555.mp3",
+    "text": "Someone put the moon in the microwave.",
+    "raw_text": "[panicked] Someone put the moon in the microwave."
+  },
+  {
+    "file": "556.mp3",
+    "text": "The floor is now lava, but only emotionally.",
+    "raw_text": "[deadpan] The floor is now lava, but only emotionally."
+  },
+  {
+    "file": "557.mp3",
+    "text": "Your horse has become financially independent.",
+    "raw_text": "[confused] Your horse has become financially independent."
+  },
+  {
+    "file": "558.mp3",
+    "text": "The refrigerator has unionized.",
+    "raw_text": "[dramatic] The refrigerator has unionized."
+  },
+  {
+    "file": "559.mp3",
+    "text": "The sun forgot to come up.",
+    "raw_text": "[shocked] The sun forgot to come up."
+  },
+  {
+    "file": "560.mp3",
+    "text": "Your shadow is running late.",
+    "raw_text": "[confused] Your shadow is running late."
+  },
+  {
+    "file": "561.mp3",
+    "text": "The clouds have filed a lawsuit.",
+    "raw_text": "[angry] The clouds have filed a lawsuit."
+  },
+  {
+    "file": "562.mp3",
+    "text": "Gravity is feeling experimental today.",
+    "raw_text": "[ominous] Gravity is feeling experimental today."
+  },
+  {
+    "file": "563.mp3",
+    "text": "The ocean has been replaced with soup.",
+    "raw_text": "[horrified] The ocean has been replaced with soup."
+  },
+  {
+    "file": "564.mp3",
+    "text": "The alphabet has lost three letters.",
+    "raw_text": "[confused] The alphabet has lost three letters."
+  },
+  {
+    "file": "565.mp3",
+    "text": "Tuesday has been discontinued.",
+    "raw_text": "[serious] Tuesday has been discontinued."
+  },
+  {
+    "file": "566.mp3",
+    "text": "The number seven has been arrested.",
+    "raw_text": "[dramatic] The number seven has been arrested."
+  },
+  {
+    "file": "567.mp3",
+    "text": "The color beige has become illegal.",
+    "raw_text": "[authoritative] The color beige has become illegal."
+  },
+  {
+    "file": "568.mp3",
+    "text": "All chairs must now face north.",
+    "raw_text": "[commanding] All chairs must now face north."
+  },
+  {
+    "file": "569.mp3",
+    "text": "The moon owes us money.",
+    "raw_text": "[deadpan] The moon owes us money."
+  },
+  {
+    "file": "570.mp3",
+    "text": "The pigeons have taken control of the economy.",
+    "raw_text": "[ominous] The pigeons have taken control of the economy."
+  },
+  {
+    "file": "571.mp3",
+    "text": "Your reflection has requested privacy.",
+    "raw_text": "[concerned] Your reflection has requested privacy."
+  },
+  {
+    "file": "572.mp3",
+    "text": "Your shadow has a different opinion.",
+    "raw_text": "[confused] Your shadow has a different opinion."
+  },
+  {
+    "file": "573.mp3",
+    "text": "The concept of doors has been temporarily suspended.",
+    "raw_text": "[robotic] The concept of doors has been temporarily suspended."
+  },
+  {
+    "file": "574.mp3",
+    "text": "We have run out of reality.",
+    "raw_text": "[panicked] We have run out of reality."
+  },
+  {
+    "file": "575.mp3",
+    "text": "Reality will return shortly.",
+    "raw_text": "[robotic] Reality will return shortly."
+  },
+  {
+    "file": "576.mp3",
+    "text": "Reality has been delayed indefinitely.",
+    "raw_text": "[deadpan] Reality has been delayed indefinitely."
+  },
+  {
+    "file": "577.mp3",
+    "text": "Please enjoy the remaining 4 percent of reality.",
+    "raw_text": "[dramatic] Please enjoy the remaining 4 percent of reality."
+  },
+  {
+    "file": "578.mp3",
+    "text": "Someone has unplugged the universe.",
+    "raw_text": "[horrified whisper] Someone has unplugged the universe."
+  },
+  {
+    "file": "579.mp3",
+    "text": "The universe has been plugged back in.",
+    "raw_text": "[relieved] The universe has been plugged back in."
+  },
+  {
+    "file": "580.mp3",
+    "text": "It did not help.",
+    "raw_text": "[deadpan] It did not help."
+  },
+  {
+    "file": "581.mp3",
+    "text": "Congratulations. You made it worse.",
+    "raw_text": "[cheerful] Congratulations. You made it worse."
+  },
+  {
+    "file": "582.mp3",
+    "text": "Excellent. Now do it again.",
+    "raw_text": "[excited] Excellent. Now do it again."
+  },
+  {
+    "file": "583.mp3",
+    "text": "This was not in the tutorial.",
+    "raw_text": "[confused] This was not in the tutorial."
+  },
+  {
+    "file": "584.mp3",
+    "text": "Nobody knows what you're doing.",
+    "raw_text": "[deadpan] Nobody knows what you're doing."
+  },
+  {
+    "file": "585.mp3",
+    "text": "Least of all you.",
+    "raw_text": "[deadpan] Least of all you."
+  },
+  {
+    "file": "586.mp3",
+    "text": "Somehow, this is going according to plan.",
+    "raw_text": "[confident] Somehow, this is going according to plan."
+  },
+  {
+    "file": "587.mp3",
+    "text": "There was never a plan.",
+    "raw_text": "[deadpan] There was never a plan."
+  },
+  {
+    "file": "588.mp3",
+    "text": "RUN. THE DUCKS HAVE LEARNED.",
+    "raw_text": "[panicked] RUN. THE DUCKS HAVE LEARNED."
+  },
+  {
+    "file": "589.mp3",
+    "text": "The answer is yes. Unfortunately.",
+    "raw_text": "[ominous] The answer is yes. Unfortunately."
+  },
+  {
+    "file": "590.mp3",
+    "text": "No.",
+    "raw_text": "[deadpan] No."
+  },
+  {
+    "file": "591.mp3",
+    "text": "Absolutely not.",
+    "raw_text": "[commanding] Absolutely not."
+  },
+  {
+    "file": "592.mp3",
+    "text": "You should probably leave.",
+    "raw_text": "[ominous] You should probably leave."
+  },
+  {
+    "file": "593.mp3",
+    "text": "Don't ask why. Just go.",
+    "raw_text": "[whisper] Don't ask why. Just go."
+  },
+  {
+    "file": "594.mp3",
+    "text": "This was a mistake.",
+    "raw_text": "[dramatic] This was a mistake."
+  },
+  {
+    "file": "595.mp3",
+    "text": "You have been warned.",
+    "raw_text": "[ominous] You have been warned."
+  },
+  {
+    "file": "596.mp3",
+    "text": "I wouldn't do that if I were you.",
+    "raw_text": "[concerned] I wouldn't do that if I were you."
+  },
+  {
+    "file": "597.mp3",
+    "text": "It already knows.",
+    "raw_text": "[mysterious] It already knows."
+  },
+  {
+    "file": "598.mp3",
+    "text": "Something has changed.",
+    "raw_text": "[dramatic] Something has changed."
+  },
+  {
+    "file": "599.mp3",
+    "text": "You have approximately five minutes.",
+    "raw_text": "[urgent] You have approximately five minutes."
+  },
+  {
+    "file": "600.mp3",
+    "text": "The door is open.",
+    "raw_text": "[mysterious] The door is open."
+  },
+  {
+    "file": "601.mp3",
+    "text": "The door was not open before.",
+    "raw_text": "[confused] The door was not open before."
+  },
+  {
+    "file": "602.mp3",
+    "text": "Do not look behind you.",
+    "raw_text": "[ominous whisper] Do not look behind you."
+  },
+  {
+    "file": "603.mp3",
+    "text": "Especially not now.",
+    "raw_text": "[urgent whisper] Especially not now."
+  },
+  {
+    "file": "604.mp3",
+    "text": "You may proceed. I wouldn't.",
+    "raw_text": "[casual] You may proceed. I wouldn't."
+  },
+  {
+    "file": "605.mp3",
+    "text": "Turn around.",
+    "raw_text": "[commanding] Turn around."
+  },
+  {
+    "file": "606.mp3",
+    "text": "Never mind. Keep going.",
+    "raw_text": "[deadpan] Never mind. Keep going."
+  },
+  {
+    "file": "607.mp3",
+    "text": "This is your last normal day.",
+    "raw_text": "[ominous] This is your last normal day."
+  },
+  {
+    "file": "608.mp3",
+    "text": "Everything is fine. This is normal.",
+    "raw_text": "[cheerful] Everything is fine. This is normal."
+  },
+  {
+    "file": "609.mp3",
+    "text": "Nothing is wrong.",
+    "raw_text": "[deadpan] Nothing is wrong."
+  },
+  {
+    "file": "610.mp3",
+    "text": "Something is extremely wrong.",
+    "raw_text": "[horrified] Something is extremely wrong."
+  },
+  {
+    "file": "611.mp3",
+    "text": "The machine has become aware.",
+    "raw_text": "[robotic] The machine has become aware."
+  },
+  {
+    "file": "612.mp3",
+    "text": "We need to talk about what you just did.",
+    "raw_text": "[serious] We need to talk about what you just did."
+  },
+  {
+    "file": "613.mp3",
+    "text": "Become a traffic cone.",
+    "raw_text": "[commanding] Become a traffic cone."
+  },
+  {
+    "file": "614.mp3",
+    "text": "Befriend a crow.",
+    "raw_text": "[friendly] Befriend a crow."
+  },
+  {
+    "file": "615.mp3",
+    "text": "Throw the nearest object.",
+    "raw_text": "[casual] Throw the nearest object."
+  },
+  {
+    "file": "616.mp3",
+    "text": "Find a spoon. Quickly.",
+    "raw_text": "[urgent whisper] Find a spoon. Quickly."
+  },
+  {
+    "file": "617.mp3",
+    "text": "Acquire three ducks.",
+    "raw_text": "[commanding] Acquire three ducks."
+  },
+  {
+    "file": "618.mp3",
+    "text": "You need a bigger hat.",
+    "raw_text": "[serious] You need a bigger hat."
+  },
+  {
+    "file": "619.mp3",
+    "text": "Apologize to the nearest chair.",
+    "raw_text": "[polite] Apologize to the nearest chair."
+  },
+  {
+    "file": "620.mp3",
+    "text": "Challenge the mailbox.",
+    "raw_text": "[dramatic] Challenge the mailbox."
+  },
+  {
+    "file": "621.mp3",
+    "text": "Hide the cheese.",
+    "raw_text": "[urgent] Hide the cheese."
+  },
+  {
+    "file": "622.mp3",
+    "text": "Put the banana down.",
+    "raw_text": "[commanding] Put the banana down."
+  },
+  {
+    "file": "623.mp3",
+    "text": "Never trust a man named Kevin.",
+    "raw_text": "[mysterious] Never trust a man named Kevin."
+  },
+  {
+    "file": "624.mp3",
+    "text": "You are not emotionally prepared for the squirrel.",
+    "raw_text": "[concerned] You are not emotionally prepared for the squirrel."
+  },
+  {
+    "file": "625.mp3",
+    "text": "The goose remembers.",
+    "raw_text": "[ominous] The goose remembers."
+  },
+  {
+    "file": "626.mp3",
+    "text": "The frog has receipts.",
+    "raw_text": "[mysterious] The frog has receipts."
+  },
+  {
+    "file": "627.mp3",
+    "text": "The pigeon knows your location.",
+    "raw_text": "[ominous] The pigeon knows your location."
+  },
+  {
+    "file": "628.mp3",
+    "text": "The fish has been promoted.",
+    "raw_text": "[proud] The fish has been promoted."
+  },
+  {
+    "file": "629.mp3",
+    "text": "The shrimp has spoken.",
+    "raw_text": "[mysterious] The shrimp has spoken."
+  },
+  {
+    "file": "630.mp3",
+    "text": "The horse is disappointed.",
+    "raw_text": "[disappointed] The horse is disappointed."
+  },
+  {
+    "file": "631.mp3",
+    "text": "The skeleton has Wi-Fi.",
+    "raw_text": "[ominous] The skeleton has Wi-Fi."
+  },
+  {
+    "file": "632.mp3",
+    "text": "The microwave is judging you.",
+    "raw_text": "[judgmental] The microwave is judging you."
+  },
+  {
+    "file": "633.mp3",
+    "text": "The ceiling fan knows too much.",
+    "raw_text": "[ominous] The ceiling fan knows too much."
+  },
+  {
+    "file": "634.mp3",
+    "text": "The lamp has chosen violence.",
+    "raw_text": "[angry] The lamp has chosen violence."
+  },
+  {
+    "file": "635.mp3",
+    "text": "The carpet has a message for you.",
+    "raw_text": "[mysterious] The carpet has a message for you."
+  },
+  {
+    "file": "636.mp3",
+    "text": "Your left shoe has been compromised.",
+    "raw_text": "[urgent] Your left shoe has been compromised."
+  },
+  {
+    "file": "637.mp3",
+    "text": "Tonight, the sandwich rises.",
+    "raw_text": "[dramatic] Tonight, the sandwich rises."
+  },
+  {
+    "file": "638.mp3",
+    "text": "At dawn, we march upon the supermarket.",
+    "raw_text": "[grandiose] At dawn, we march upon the supermarket."
+  },
+  {
+    "file": "639.mp3",
+    "text": "The sacred spatula must be recovered.",
+    "raw_text": "[ceremonial] The sacred spatula must be recovered."
+  },
+  {
+    "file": "640.mp3",
+    "text": "Prepare the ceremonial bread.",
+    "raw_text": "[urgent] Prepare the ceremonial bread."
+  },
+  {
+    "file": "641.mp3",
+    "text": "The age of the spoon is upon us.",
+    "raw_text": "[grandiose] The age of the spoon is upon us."
+  },
+  {
+    "file": "642.mp3",
+    "text": "The great cucumber awakens.",
+    "raw_text": "[ominous] The great cucumber awakens."
+  },
+  {
+    "file": "643.mp3",
+    "text": "The prophecy demands a kazoo.",
+    "raw_text": "[dramatic] The prophecy demands a kazoo."
+  },
+  {
+    "file": "644.mp3",
+    "text": "The kingdom has fallen. The snacks remain.",
+    "raw_text": "[sad] The kingdom has fallen. The snacks remain."
+  },
+  {
+    "file": "645.mp3",
+    "text": "The final boss is a tax form.",
+    "raw_text": "[dramatic] The final boss is a tax form."
+  },
+  {
+    "file": "646.mp3",
+    "text": "Your greatest enemy is mild dehydration.",
+    "raw_text": "[deadpan] Your greatest enemy is mild dehydration."
+  },
+  {
+    "file": "647.mp3",
+    "text": "The gates will open when someone says bro.",
+    "raw_text": "[ominous] The gates will open when someone says bro."
+  },
+  {
+    "file": "648.mp3",
+    "text": "The ritual requires exactly four pigeons.",
+    "raw_text": "[serious] The ritual requires exactly four pigeons."
+  },
+  {
+    "file": "649.mp3",
+    "text": "The ancient evil has terrible posture.",
+    "raw_text": "[concerned] The ancient evil has terrible posture."
+  },
+  {
+    "file": "650.mp3",
+    "text": "The darkness approaches on a scooter.",
+    "raw_text": "[dramatic] The darkness approaches on a scooter."
+  },
+  {
+    "file": "651.mp3",
+    "text": "The chosen weapon is a pool noodle.",
+    "raw_text": "[grandiose] The chosen weapon is a pool noodle."
+  },
+  {
+    "file": "652.mp3",
+    "text": "The final battle will be held in a Lidl.",
+    "raw_text": "[epic] The final battle will be held in a Lidl."
+  },
+  {
+    "file": "653.mp3",
+    "text": "The fate of the universe rests upon this chicken nugget.",
+    "raw_text": "[dramatic] The fate of the universe rests upon this chicken nugget."
+  },
+  {
+    "file": "654.mp3",
+    "text": "The gods have requested your Wi-Fi password.",
+    "raw_text": "[shocked] The gods have requested your Wi-Fi password."
+  },
+  {
+    "file": "655.mp3",
+    "text": "The apocalypse has been rescheduled for Thursday.",
+    "raw_text": "[deadpan] The apocalypse has been rescheduled for Thursday."
+  },
+  {
+    "file": "656.mp3",
+    "text": "That's crazy.",
+    "raw_text": "[deadpan] That's crazy."
+  },
+  {
+    "file": "657.mp3",
+    "text": "That's not ideal.",
+    "raw_text": "[concerned] That's not ideal."
+  },
+  {
+    "file": "658.mp3",
+    "text": "That's actually kind of impressive.",
+    "raw_text": "[impressed] That's actually kind of impressive."
+  },
+  {
+    "file": "659.mp3",
+    "text": "How did you even do that?",
+    "raw_text": "[confused] How did you even do that?"
+  },
+  {
+    "file": "660.mp3",
+    "text": "Why would you do that?",
+    "raw_text": "[disappointed] Why would you do that?"
+  },
+  {
+    "file": "661.mp3",
+    "text": "I respect the commitment.",
+    "raw_text": "[amused] I respect the commitment."
+  },
+  {
+    "file": "662.mp3",
+    "text": "Bold strategy.",
+    "raw_text": "[deadpan] Bold strategy."
+  },
+  {
+    "file": "663.mp3",
+    "text": "Questionable strategy.",
+    "raw_text": "[concerned] Questionable strategy."
+  },
+  {
+    "file": "664.mp3",
+    "text": "A terrible strategy.",
+    "raw_text": "[dramatic] A terrible strategy."
+  },
+  {
+    "file": "665.mp3",
+    "text": "A beautiful strategy.",
+    "raw_text": "[cheerful] A beautiful strategy."
+  },
+  {
+    "file": "666.mp3",
+    "text": "There was a strategy?",
+    "raw_text": "[confused] There was a strategy?"
+  },
+  {
+    "file": "667.mp3",
+    "text": "I see.",
+    "raw_text": "[deadpan] I see."
+  },
+  {
+    "file": "668.mp3",
+    "text": "I see everything.",
+    "raw_text": "[mysterious] I see everything."
+  },
+  {
+    "file": "669.mp3",
+    "text": "I saw that.",
+    "raw_text": "[ominous] I saw that."
+  },
+  {
+    "file": "670.mp3",
+    "text": "I saw what you did.",
+    "raw_text": "[annoyed] I saw what you did."
+  },
+  {
+    "file": "671.mp3",
+    "text": "Nobody saw that.",
+    "raw_text": "[whisper] Nobody saw that."
+  },
+  {
+    "file": "672.mp3",
+    "text": "Nobody needs to know.",
+    "raw_text": "[relieved] Nobody needs to know."
+  },
+  {
+    "file": "673.mp3",
+    "text": "Everyone knows.",
+    "raw_text": "[panicked] Everyone knows."
+  },
+  {
+    "file": "674.mp3",
+    "text": "Everyone will know.",
+    "raw_text": "[dramatic] Everyone will know."
+  },
+  {
+    "file": "675.mp3",
+    "text": "Nobody cares.",
+    "raw_text": "[deadpan] Nobody cares."
+  },
+  {
+    "file": "676.mp3",
+    "text": "I care.",
+    "raw_text": "[dramatic] I care."
+  },
+  {
+    "file": "677.mp3",
+    "text": "Why do I care?",
+    "raw_text": "[confused] Why do I care?"
+  },
+  {
+    "file": "678.mp3",
+    "text": "I shouldn't care.",
+    "raw_text": "[tired] I shouldn't care."
+  },
+  {
+    "file": "679.mp3",
+    "text": "Anyway, good luck.",
+    "raw_text": "[cheerful] Anyway, good luck."
+  },
+  {
+    "file": "680.mp3",
+    "text": "You're going to need it.",
+    "raw_text": "[ominous] You're going to need it."
+  },
+  {
+    "file": "681.mp3",
+    "text": "The left one is lying.",
+    "raw_text": "[mysterious] The left one is lying."
+  },
+  {
+    "file": "682.mp3",
+    "text": "Which left one?",
+    "raw_text": "[confused] Which left one?"
+  },
+  {
+    "file": "683.mp3",
+    "text": "Exactly.",
+    "raw_text": "[deadpan] Exactly."
+  },
+  {
+    "file": "684.mp3",
+    "text": "Never open the second drawer.",
+    "raw_text": "[ominous] Never open the second drawer."
+  },
+  {
+    "file": "685.mp3",
+    "text": "What's in the second drawer?",
+    "raw_text": "[curious] What's in the second drawer?"
+  },
+  {
+    "file": "686.mp3",
+    "text": "We don't talk about the second drawer.",
+    "raw_text": "[panicked] We don't talk about the second drawer."
+  },
+  {
+    "file": "687.mp3",
+    "text": "The second drawer talks about you.",
+    "raw_text": "[dramatic] The second drawer talks about you."
+  },
+  {
+    "file": "688.mp3",
+    "text": "Your chair has a secret.",
+    "raw_text": "[mysterious] Your chair has a secret."
+  },
+  {
+    "file": "689.mp3",
+    "text": "Your chair has been acting strange.",
+    "raw_text": "[concerned] Your chair has been acting strange."
+  },
+  {
+    "file": "690.mp3",
+    "text": "Your chair remembers.",
+    "raw_text": "[ominous whisper] Your chair remembers."
+  },
+  {
+    "file": "691.mp3",
+    "text": "Why is there a chair here?",
+    "raw_text": "[confused] Why is there a chair here?"
+  },
+  {
+    "file": "692.mp3",
+    "text": "There has always been a chair.",
+    "raw_text": "[deadpan] There has always been a chair."
+  },
+  {
+    "file": "693.mp3",
+    "text": "There was never supposed to be a chair.",
+    "raw_text": "[shocked] There was never supposed to be a chair."
+  },
+  {
+    "file": "694.mp3",
+    "text": "The chair has chosen.",
+    "raw_text": "[dramatic] The chair has chosen."
+  },
+  {
+    "file": "695.mp3",
+    "text": "The chair has spoken.",
+    "raw_text": "[authoritative] The chair has spoken."
+  },
+  {
+    "file": "696.mp3",
+    "text": "We obey the chair.",
+    "raw_text": "[deadpan] We obey the chair."
+  },
+  {
+    "file": "697.mp3",
+    "text": "Long live the chair.",
+    "raw_text": "[ceremonial] Long live the chair."
+  },
+  {
+    "file": "698.mp3",
+    "text": "Long live the bucket.",
+    "raw_text": "[triumphant] Long live the bucket."
+  },
+  {
+    "file": "699.mp3",
+    "text": "The bucket returns.",
+    "raw_text": "[ominous] The bucket returns."
+  },
+  {
+    "file": "700.mp3",
+    "text": "THE BUCKET RETURNS.",
+    "raw_text": "[shocked] THE BUCKET RETURNS."
+  },
+  {
+    "file": "701.mp3",
+    "text": "Don't mention the bucket.",
+    "raw_text": "[whisper] Don't mention the bucket."
+  },
+  {
+    "file": "702.mp3",
+    "text": "You mentioned the bucket.",
+    "raw_text": "[deadpan] You mentioned the bucket."
+  },
+  {
+    "file": "703.mp3",
+    "text": "You weren't supposed to mention the bucket.",
+    "raw_text": "[panicked] You weren't supposed to mention the bucket."
+  },
+  {
+    "file": "704.mp3",
+    "text": "Now look what you've done.",
+    "raw_text": "[dramatic] Now look what you've done."
+  },
+  {
+    "file": "705.mp3",
+    "text": "Every time.",
+    "raw_text": "[tired] Every time."
+  },
+  {
+    "file": "706.mp3",
+    "text": "Have you considered becoming a lamp?",
+    "raw_text": "[confused] Have you considered becoming a lamp?"
+  },
+  {
+    "file": "707.mp3",
+    "text": "Why don't you own a ceremonial spoon?",
+    "raw_text": "[serious] Why don't you own a ceremonial spoon?"
+  },
+  {
+    "file": "708.mp3",
+    "text": "What if the frog is right?",
+    "raw_text": "[curious] What if the frog is right?"
+  },
+  {
+    "file": "709.mp3",
+    "text": "Have you checked your ceiling?",
+    "raw_text": "[concerned] Have you checked your ceiling?"
+  },
+  {
+    "file": "710.mp3",
+    "text": "Have you checked your pockets?",
+    "raw_text": "[deadpan] Have you checked your pockets?"
+  },
+  {
+    "file": "711.mp3",
+    "text": "What's in your left pocket?",
+    "raw_text": "[mysterious] What's in your left pocket?"
+  },
+  {
+    "file": "712.mp3",
+    "text": "You should check.",
+    "raw_text": "[ominous] You should check."
+  },
+  {
+    "file": "713.mp3",
+    "text": "Check it now.",
+    "raw_text": "[urgent] Check it now."
+  },
+  {
+    "file": "714.mp3",
+    "text": "Why is that in there?",
+    "raw_text": "[shocked] Why is that in there?"
+  },
+  {
+    "file": "715.mp3",
+    "text": "Where did you get that?",
+    "raw_text": "[confused] Where did you get that?"
+  },
+  {
+    "file": "716.mp3",
+    "text": "Don't answer that.",
+    "raw_text": "[deadpan] Don't answer that."
+  },
+  {
+    "file": "717.mp3",
+    "text": "I already know.",
+    "raw_text": "[mysterious] I already know."
+  },
+  {
+    "file": "718.mp3",
+    "text": "We all know.",
+    "raw_text": "[dramatic] We all know."
+  },
+  {
+    "file": "719.mp3",
+    "text": "The frog knows too.",
+    "raw_text": "[ominous] The frog knows too."
+  },
+  {
+    "file": "720.mp3",
+    "text": "Why is the frog involved?",
+    "raw_text": "[annoyed] Why is the frog involved?"
+  },
+  {
+    "file": "721.mp3",
+    "text": "It always is.",
+    "raw_text": "[deadpan] It always is."
+  },
+  {
+    "file": "722.mp3",
+    "text": "The answer is... no.",
+    "raw_text": "[very serious] The answer is... [pause] no."
+  },
+  {
+    "file": "723.mp3",
+    "text": "The council has spoken. Again.",
+    "raw_text": "The council has spoken. [disappointed] Again."
+  },
+  {
+    "file": "724.mp3",
+    "text": "Do not... touch the spoon.",
+    "raw_text": "[whisper] Do not... [dramatic] touch the spoon."
+  },
+  {
+    "file": "725.mp3",
+    "text": "Your fate has been decided. Poorly.",
+    "raw_text": "Your fate has been decided. [pause] [ominous] Poorly."
+  },
+  {
+    "file": "726.mp3",
+    "text": "Congratulations! You have doomed us all.",
+    "raw_text": "[excited] Congratulations! [ominous] You have doomed us all."
+  },
+  {
+    "file": "727.mp3",
+    "text": "The prophecy says ...what?",
+    "raw_text": "The prophecy says [confused] ...what?"
+  },
+  {
+    "file": "728.mp3",
+    "text": "You have made... a mistake.",
+    "raw_text": "[slowly] You have made... [ominous] a mistake."
+  },
+  {
+    "file": "729.mp3",
+    "text": "Great news! You are doomed.",
+    "raw_text": "[cheerful] Great news! [deadpan] You are doomed."
+  },
+  {
+    "file": "730.mp3",
+    "text": "The toaster knows. It always knows.",
+    "raw_text": "[whisper] The toaster knows. [pause] [ominous] It always knows."
+  },
+  {
+    "file": "731.mp3",
+    "text": "By decree of the council... why are you like this?",
+    "raw_text": "[ceremonial] By decree of the council... [confused] why are you like this?"
+  }
+]
